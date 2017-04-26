@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+     <item android:drawable="@color/list_item_background_color_click" 
+        android:state_pressed="true"/><!-- press -->
+    <item android:state_focused="true"
+           android:drawable="@color/list_item_background_color_click" /><!-- focus -->
+    <item android:state_hovered="true"
+         android:drawable="@color/list_item_background_color_click" ></item>       
+    <item android:drawable="@color/white"/><!-- default -->
+
+</selector>

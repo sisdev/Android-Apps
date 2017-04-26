@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorDarkMaroon">#8a0f5c</color>
+    <color name="list_divider">#8a0f5c</color>
+    <color name="OrderFullFilled">#3dbd1e</color>
+</resources>

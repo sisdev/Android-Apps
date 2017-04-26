@@ -1,0 +1,15 @@
+{
+"OrderDetails":
+ [
+
+ {"ItemId" : "220", "ItemName": "IndiaGate Rice","ItemQty" : "8", "Status": "Y"},
+ {"ItemId" : "221", "ItemName": "Fortune Oil","ItemQty" : "5K.g.","Status": "N"}
+ ]
+};
+
+
+
+
+
+
+

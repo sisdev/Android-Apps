@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg" >
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:layout_marginTop="10dp"
+         android:layout_weight="0.88"
+         android:orientation="vertical" >
+
+    <!-- <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       
+        
+        android:text="Select Your Exhibitor"
+        android:gravity="left"
+        android:textAppearance="?android:attr/textAppearanceMedium" /> -->
+
+    <EditText
+        android:id="@+id/albumeditText"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+             android:layout_weight=".1"
+             android:layout_marginLeft="5dp"
+             android:layout_marginRight="5dp"
+             android:layout_marginTop="5dp"
+             android:background="@drawable/rounder_button_white"
+             android:hint="@string/filterItem"
+             android:padding="5dp"
+             android:textColor="@color/Gray"  >
+       
+    </EditText>
+
+    <ListView
+        android:id="@+id/albumnamelistView"
+        style="@style/txtStyle"
+             android:layout_width="match_parent"
+             android:layout_height="0dp"
+             android:layout_margin="5dp"
+             android:layout_weight="0.73"
+             android:background="@drawable/rounder_button_white"
+             android:fadingEdge="none"
+             android:padding="5dp" 
+        >
+
+    </ListView>
+    </LinearLayout>
+     <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="0dp"
+     android:layout_weight=".12" >
+    <FrameLayout
+        android:id="@+id/AdsFrameLayout"
+        style="@style/add_banner_width_height"
+        android:layout_gravity="bottom|center_horizontal"
+         android:background="@anim/banner_animator">
+        </FrameLayout>
+</LinearLayout>
+
+</LinearLayout>

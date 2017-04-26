@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.assusoft.maps.activities.MapActivity" 
+    android:id="@+id/fromRelative"
+    
+    >
+
+   
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        
+
+        <TextView
+            android:id="@+id/getYourCab"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#ffbb00"
+            android:textStyle="bold"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+    <RelativeLayout 
+        android:id="@+id/RelativeLayout2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edtFrom1" >
+
+    <fragment
+        android:id="@+id/mapFrom"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true" 
+         />
+
+      <ImageView
+                android:layout_width="30dp"
+                android:layout_height="50dp"
+                android:layout_centerInParent="true"
+                android:id="@+id/dragMarker"
+                android:contentDescription="Marker"/>
+
+      <TextView
+          android:id="@+id/tvNearestCab"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_alignParentTop="true"
+          android:layout_alignParentRight="true"
+          android:background="#07000000"
+          android:gravity="center"
+          android:text=""
+          android:maxLines="2"
+          android:minLines="1"
+          android:textColor="@color/Dark_Gray"
+           />
+<!-- "android:textColor=#000000"  CHANGED -->
+      </RelativeLayout>
+
+
+</RelativeLayout>

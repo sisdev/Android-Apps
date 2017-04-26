@@ -1,0 +1,26 @@
+package com.mohitsingh9512gmail.applist;
+
+import android.content.SharedPreferences;
+import android.os.Bundle;
+import android.support.v4.app.Fragment;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+/**
+ * Created by Mohit Singh on 8/4/2016.
+ */
+//Our class extending fragment
+public class Tab2 extends Fragment {
+
+    SharedPreferences sharedPreferences;
+
+    //Overriden method onCreateView
+    @Override
+    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+
+        //Returning the layout file after inflating
+        //Change R.layout.main in you classes
+        return inflater.inflate(R.layout.tab2, container, false);
+
+    }
+}

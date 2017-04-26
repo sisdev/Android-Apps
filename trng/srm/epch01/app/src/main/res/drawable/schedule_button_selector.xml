@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@drawable/location_selected" 
+        android:state_pressed="true"/><!-- press -->
+    <item android:state_focused="true"
+           android:drawable="@drawable/location_selected" /><!-- focus -->
+    <item android:state_hovered="true"
+         android:drawable="@drawable/location_selected" ></item>       
+    <item android:drawable="@drawable/location_icon"/><!-- default -->
+
+</selector>

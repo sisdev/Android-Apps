@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="titlebarText">#c4771c</color>
+    <color name="buttonbackground">#7c1918</color>
+    <color name="buttontextcolor">#cc9338</color>
+    <color name="listdivider">#ddddee</color>
+    <color name="listitem">#7e24e5</color>
+    <color name="tabdivider">#000000</color>
+    <color name="home_button_pressed">#c4771c</color>
+    <color name="semi_transparent">#255e5e5e</color>
+    <!-- <color name="semi_transparent">#FBF9FD</color>  -->
+    <color name="menu_button_text_color">#ffffff</color> 
+    <color name="gv_txt_background">#00f055</color>
+    <color name="gray">#25383C</color>
+    <color name="light_gray">#AAAAAA</color>
+    <color name="eventDateBackground">#0400bc</color>
+    <!-- for qrcode -->
+    <color name="transparent">#00000000</color>
+  
+  <color name="contents_text">#ff000000</color>
+  
+  <color name="encode_view">#ffffffff</color>
+
+  <color name="possible_result_points">#c05f3d84</color>
+  
+  <color name="result_image_border">#ff526F35</color>
+  <color name="result_minor_text">#ffc0c0c0</color>
+  <color name="result_points">#c05f3d84</color>
+  <color name="result_text">#ffffffff</color>
+  <color name="result_view">#b0000000</color>
+
+  <color name="status_view">#50000000</color>
+  <color name="status_text">#ffffffff</color>
+
+  <color name="viewfinder_frame">#ff304c8d</color>
+  <color name="viewfinder_laser">#ff304c8d</color>
+  <color name="viewfinder_mask">#60304c8d</color>
+  
+ <!-- for main btn color -->
+  <color name="gradient_start_color">#17484d</color>
+  <color name="gradient_mid_color">#2a7e89</color>
+  <color name="gradient_end_color">#2f95a3</color>
+  
+   
+   <!-- for exhibitors details-->
+   <color name="exhibitor_detail_header">#7eb941</color>
+   <color name="exhibitor_content">#fff4e8</color>
+    <!-- for search screen-->
+    <color name="search_header">#88d1fe</color>
+    <color name="search_content">#ffffff</color>
+   <!--  <color name="gray">#dddddd</color> -->
+    <color name="search_button">#fcbb79</color>
+    <color name="search_devider">#cccbc9</color>
+    <color name="search_by">#0173d3</color>
+    <color name="search_contet_txt_color">#f3904c</color>
+   <!--  <color name="search_by">#0173d3</color>
+    <color name="search_contet_txt_color">#f3904c</color> -->
+    <color name="search_tab">#2e81c3</color>
+    <color name="search_blue">#4397d5</color>
+    <color name="search_actionbar_txt_color">#d9291c</color>
+    
+    <!-- for event listview  -->
+    <color name="list_item_text_color">#ffffff</color>
+    <color name="list_item_background_color">#fff4e8</color>
+    <color name="list_item_background_color_click">#7eb941</color>
+    <color name="list_item_content_text_color">#f5904c</color>
+    <color name="event_list_divider">#739cb2</color>
+    <color name="event_list_header">#88d1fe</color>
+    <color name="event_list_header_text_color">#0374d2</color>
+    <color name="event_button_background">#5bafeb</color>
+    <color name="event_details_background">#bbdbe8</color>
+    <!-- 
+    The Core Theme the color if you change see diffent look and feel 
+    -->
+    <color name="action_bar_Color">#7eb941</color>
+   <!-- for colapsible list view -->
+  <color name="gradient_start_color_listview">#ffffff</color>
+  <color name="gradient_mid_color_listview">#fdfdfd</color>
+  <color name="gradient_end_color_listview">#cecece</color>
+  
+  <color name="red">#ff0000</color>
+  <color name="black">#000000</color>
+  <color name="white">#ffffff</color>
+  <color name ="Dark_Gray">#5e5e5e</color>
+  <color name="panel_item_presses">#33FFCC</color>
+  <color name="panel_item_hovered">#ffFFCC</color>
+  <color name="panel_item_focused">#33FFCC</color>
+  <color name="panel_item_default">#00FFCC</color>
+  <color name="action_bar_color_green">#7eb941</color>
+  <color name="light_blue">#2c8490</color>
+  <color name="packplus_blue">#2a7e89</color>
+  <color name="Light_Gray">#D8DADC</color>
+  
+  <!-- -epch related color -->
+  <color name = "Gray" >#858585</color>
+  <color name = "button_border">#D7D7D7</color>
+  <color name = "button_click">#B7B7B7</color>
+  <color name = "tab_blue">#2E549F</color>
+  <color name = "tab_selected_blue">#1FABE1</color>
+</resources>

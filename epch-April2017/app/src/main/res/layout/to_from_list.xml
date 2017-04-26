@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llToFramList"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     android:background="@drawable/bg"
+     android:focusableInTouchMode="true"
+     android:focusable="true"
+   >
+   
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"        
+        android:orientation="vertical" 
+        android:layout_alignParentTop="true"
+        android:id="@+id/lltop">
+      
+        <!-- <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Routes"
+            android:textAppearance="?android:attr/textAppearanceMedium" 
+            android:layout_weight="0.20"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            /> -->
+        
+        <Button
+            android:id="@+id/btnToFromDone"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_vertical|right"
+			android:layout_margin="5dp"      
+            android:gravity="center"
+            android:text="Done"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:background="@drawable/common_button_selector" />
+        
+    </LinearLayout>
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="horizontal"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/llfilter"
+        android:layout_below="@+id/lltop">
+    <EditText 
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:id="@+id/tvtofromFilter"
+        android:hint="Filter..."
+        android:padding="5dp"
+        android:layout_below="@+id/lltop"
+       android:inputType="textWebEditText"
+       android:background="@drawable/rounder_button_white"
+       android:textColor="@color/Dark_Gray"
+        
+        />
+    <ImageView android:layout_width="48dp"
+               android:layout_height="48dp"
+               android:src="@drawable/cancelicon"
+               android:layout_toRightOf="@+id/tvtofromFilter"
+               android:layout_marginLeft="-55dp"
+               android:visibility="gone"
+               android:id="@+id/imgcancel"/>
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/llfilter"
+        android:layout_above="@+id/llto"
+        android:orientation="horizontal"              
+        
+        android:layout_marginTop="10dp"
+         >
+
+    <ListView
+        android:id="@+id/lvToFrom"
+        android:layout_width="match_parent"
+        android:padding="1.5dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="5dp"
+        android:layout_weight="1"
+        android:background="@drawable/rounder_button_white" >
+        
+        <!-- android:background="@color/semi_transparent"     rounder_button_white  changed -->    
+    </ListView>     
+     <com.epch.efair.delhifair.RotateButton
+         android:id="@+id/btnExhibitors"
+         android:layout_width="50dp"
+         android:layout_height="100dp"
+         android:layout_alignRight="@+id/lvToFrom"
+         android:layout_above="@+id/tvCenter"
+         android:layout_marginTop="20dp"
+         android:layout_marginRight="1dp"
+         android:paddingTop="15dp"
+         android:paddingBottom="0dp"
+         android:gravity="center|bottom"
+         android:text="Exhibitors" 
+         android:textColor="@color/white"
+         android:textSize="16sp"
+         android:background="@drawable/common_button_selector" 
+         android:visibility="invisible">
+      </com.epch.efair.delhifair.RotateButton>
+      <TextView 
+          android:id="@+id/tvCenter"
+          android:layout_width="50dp"
+          android:layout_height="1dp"
+          android:layout_alignRight="@+id/lvToFrom"
+          android:layout_centerVertical="true"
+          />
+      
+       <com.epch.efair.delhifair.RotateButton
+         android:id="@+id/btnFacilities"
+         android:layout_width="50dp"
+         android:layout_height="100dp"
+         android:layout_below="@+id/tvCenter"
+         android:layout_alignRight="@+id/lvToFrom"
+         android:layout_marginTop="1dp"
+         android:layout_marginRight="1dp"
+         android:paddingTop="15dp"
+         android:paddingBottom="0dp"
+         android:gravity="center|bottom"
+         android:text="Facilities" 
+         android:textColor="@color/white"
+         android:textSize="16sp"
+         android:background="@drawable/common_button_selector" 
+         android:visibility="invisible">
+         </com.epch.efair.delhifair.RotateButton>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="horizontal"
+        android:layout_above="@+id/llbottom"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/white_border_shape"
+        android:id="@+id/llto"
+        >
+       <!-- android:background="@drawable/to_from_border_shape_selector"     rounder_button_white changed -->
+       <!--  <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TO"
+            android:textAppearance="?android:attr/textAppearanceMedium" 
+            android:layout_weight="0.05"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:textSize="20dp"
+            android:textStyle="bold"
+           /> -->
+        <TextView
+            android:id="@+id/tvdest"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:text="To : "
+            android:textAppearance="?android:attr/textAppearanceMedium" 
+            android:layout_weight="0.20"
+            android:padding="5dp"
+            android:layout_gravity="center"
+            android:maxLines="1"
+            android:textColor="@color/Dark_Gray"/>
+        
+        <ImageButton
+            android:id="@+id/btnToFromDone1"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="right"
+            android:layout_weight="0.06"
+            android:padding="3dp"
+            android:gravity="center"
+            android:src="@drawable/qr_to_from_selector"
+            android:background="@color/transparent"
+            android:scaleType="fitCenter"/>
+    </LinearLayout>
+     <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/llbottom"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/rounder_button_white"
+        >
+        
+         <!-- android:background="@drawable/to_from_border_shape_selector"   Changed -->
+        <!--  <TextView
+            
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="From "
+            android:textAppearance="?android:attr/textAppearanceMedium" 
+            android:layout_weight="0.05"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:textSize="20dp"
+            android:textStyle="bold"/> -->
+        <TextView
+            android:id="@+id/tvFrom"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:text="From : "
+            android:textAppearance="?android:attr/textAppearanceMedium" 
+            android:layout_weight="0.20"
+            android:padding="5dp"
+            android:layout_gravity="center"
+            android:textColor="@color/Dark_Gray"
+            android:maxLines="1"/>
+        
+        <ImageButton
+            android:id="@+id/btnToFromDone2"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="right"
+            android:layout_weight="0.06"
+            android:padding="3dp"
+            android:gravity="center"
+            android:src="@drawable/qr_to_from_selector"
+            android:background="@color/transparent"
+            android:scaleType="fitCenter" />
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,1130 @@
+[
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fair_facilities_ihgf.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\fair_facilities_ihgf.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\email.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\email.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\info.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\info.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\venue_map_click.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\venue_map_click.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\delete.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_cast_light.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_light.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hall_no_12.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\hall_no_12.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact_us_ihgf.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\contact_us_ihgf.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_ic_notification_1.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable-xhdpi\\cast_ic_notification_1.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\homeexpo_disabled.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\homeexpo_disabled.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\planner.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\planner.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\feedback_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\feedback_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\productnotes.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\productnotes.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_cast_disabled_light.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\layout_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\layout_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\info_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\info_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\powered_by_google_dark.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\plus.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\plus.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spring_disabled.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\spring_disabled.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fair_facilities_ihgf_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\fair_facilities_ihgf_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_ihgf.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\about_ihgf.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\empanelhotels_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\empanelhotels_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\productcategory.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\productcategory.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_app.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\about_app.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\stall.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\stall.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_on_2_mono_dark.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_hover.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\camera_hover.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_cast_on_1_light.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_on_1_light.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\appicon.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\appicon.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\menu_bg_delhifair.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\menu_bg_delhifair.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edit_pressed.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\edit_pressed.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\error.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\error.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speakers.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\speakers.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-xhdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_off_mono_dark.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_off_mono_dark.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\location_icon.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\location_icon.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book_mark_icon.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\book_mark_icon.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_disabled_mono_dark.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_disabled_mono_dark.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fairfacties_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\fairfacties_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\exhibitors_name.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\exhibitors_name.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\you.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\you.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_ifjas_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\about_ifjas_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_r.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\arrow_r.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book_mark_icon_white.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\book_mark_icon_white.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nearby_click.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\nearby_click.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_on_mono_dark.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_on_mono_dark.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\email_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\email_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_l.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\arrow_l.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_cast_off_light.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_off_light.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\menu_bg.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\menu_bg.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\bg.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\blue_header.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\blue_header.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\home.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\plus_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\plus_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\product_gallery.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\product_gallery.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\first.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\first.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\splash.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_setting_dark.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_setting_dark.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\youtubeonclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\youtubeonclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\autumn_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\autumn_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qr_to_from_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\qr_to_from_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_button_click.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\common_button_click.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\conclave.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\conclave.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\news_click.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\news_click.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spalsh2.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\spalsh2.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_button_ihgf_click.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\common_button_ihgf_click.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jewellery.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\jewellery.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\down_arrow.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\down_arrow.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\free_shuttle_ihgf_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\free_shuttle_ihgf_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_cast_on_0_light.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_on_0_light.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search1_click.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\search1_click.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\locate.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\locate.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\venue_ihgf_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\venue_ihgf_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ihfg_header.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\ihfg_header.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fairfacilities_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\fairfacilities_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_pause.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_pause.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\youtube.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\youtube.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\products_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\products_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_on_1_mono_dark.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_on_1_mono_dark.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_play_dark.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_play_dark.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\location_marker_temp.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\location_marker_temp.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_notification.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\success.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\success.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\freshuttle_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\freshuttle_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_cast_on_2_light.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spring_on_click.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\spring_on_click.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hall_no_10.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\hall_no_10.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\socialmedia_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\socialmedia_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fb_like.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\fb_like.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\productselection_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\productselection_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spring.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\spring.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_play.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_play.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seminar_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\seminar_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mobile_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\mobile_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\powered_by_google_light.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xhdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\help_desk_ihgf.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\help_desk_ihgf.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\visitor_ihgf_registor.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\visitor_ihgf_registor.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qrcode_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\qrcode_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\delete_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\delete_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\homeexpo_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\homeexpo_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\splash_delhifair.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\splash_delhifair.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\add_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\add_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\favorite_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\favorite_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\new_photo_pressed.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\new_photo_pressed.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-xhdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\exhibitor_list_ihgf_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\exhibitor_list_ihgf_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\empaneled_hotels_ihgf.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\empaneled_hotels_ihgf.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_ic_notification_0.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable-xhdpi\\cast_ic_notification_0.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\places_ic_search.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xhdpi\\places_ic_search.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\web_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\web_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\productcategory_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\productcategory_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\first_menu.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\first_menu.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\add.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\add.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_setting_light.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_setting_light.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\twitter_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\twitter_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_play_light.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_play_light.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pinterest_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\pinterest_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\conclave_click.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\conclave_click.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\empanelhotels.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\empanelhotels.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hall_no_11.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\hall_no_11.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\homeexpo.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\homeexpo.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\useful_information_ihgf_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\useful_information_ihgf_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_cast_dark.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_dark.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\feedback.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\feedback.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\places_ic_clear.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xhdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\useful_information_ighf.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\useful_information_ighf.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\layout.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\layout.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sn.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\sn.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\upload.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\upload.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pinterest.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\pinterest.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\exbt_location.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\exbt_location.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fairfacilities.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\fairfacilities.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\landline.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\landline.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notes_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\notes_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_ic_notification_2.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable-xhdpi\\cast_ic_notification_2.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fb.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\fb.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\upload_click.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\upload_click.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\planner_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\planner_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\help_desk_ihgf_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\help_desk_ihgf_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_drawer.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nearby.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\nearby.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_on_0_mono_dark.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_on_0_mono_dark.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\city.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\city.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pause_light.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_pause_light.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notes.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\notes.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_button_ihgf.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\common_button_ihgf.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hall_no_8.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\hall_no_8.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\helpdesknumber_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\helpdesknumber_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\helpdesk.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\helpdesk.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_ihgf_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\about_ihgf_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\location_selected.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\location_selected.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_ic_notification_on.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable-xhdpi\\cast_ic_notification_on.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\location_marker.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\location_marker.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\usefulinfo.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\usefulinfo.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_button.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\common_button.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\exhibitor_list_ihgf.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\exhibitor_list_ihgf.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\web.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\web.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\products.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\products.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fb_like_click.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\fb_like_click.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_click.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\home_click.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\new_photo.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\new_photo.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\productnotes_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\productnotes_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\locate_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\locate_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mobile.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\mobile.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\visitor_ihgf_registor_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\visitor_ihgf_registor_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\exhibitorsname_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\exhibitorsname_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\favorite.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\favorite.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\usefulinfo_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\usefulinfo_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\click_icon.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\click_icon.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_app_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\about_app_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cntacts.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\cntacts.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact_us_ihgf_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\contact_us_ihgf_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\destination_marker.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\destination_marker.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sn_click.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\sn_click.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\empaneled_hotels_ihgf_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\empaneled_hotels_ihgf_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\city_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\city_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fb_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\fb_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\location_marker_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\location_marker_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\splash2.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\splash2.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\freeshuttleinfo.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\freeshuttleinfo.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-xhdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\socialmedia.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\socialmedia.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\productselection.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\productselection.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\exhibitors.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\exhibitors.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\news.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\news.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\product_gallery_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\product_gallery_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\stallno_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\stallno_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_delhifair.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\bg_delhifair.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jewellery_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\jewellery_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pause_dark.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_pause_dark.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edit.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\edit.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hall_no_9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\hall_no_9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\autumn.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\autumn.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fail.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\fail.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\twitter.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\twitter.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qrcode.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\qrcode.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seminar.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\seminar.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-xhdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search1.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\search1.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\free_shuttle_ihgf.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\free_shuttle_ihgf.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_cast_on_light.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_on_light.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\venue_map.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\venue_map.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qr_to_from.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\qr_to_from.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\venue_ihgf.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\venue_ihgf.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\second.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\second.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_ifjas.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\about_ifjas.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\exhibitors_click.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\exhibitors_click.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_click.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\camera_click.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\landline_onclick.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable-xhdpi\\landline_onclick.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_full_open_on_phone.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_full_open_on_phone.png"
+    }
+]

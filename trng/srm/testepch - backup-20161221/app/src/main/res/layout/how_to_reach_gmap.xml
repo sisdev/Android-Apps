@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rootLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:weightSum="1.0"
+    android:orientation="vertical" 
+   >
+    <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:orientation="vertical" 
+    android:layout_weight="0.88"
+   >
+   <LinearLayout 
+       android:layout_width="match_parent"
+       android:layout_height="50dp"
+       android:orientation="horizontal"
+       android:weightSum="1.0">
+   <TextView 
+        android:id="@+id/tvDownRowHowtoReach"
+        android:layout_width="match_parent"
+        android:text="Select Your Place"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:gravity="center_vertical"
+        android:background="@color/white"
+        android:layout_height="match_parent"
+        />
+   <TextView 
+       android:id="@+id/tv"
+       android:layout_width="20dp"
+       android:layout_height="10dp"
+       android:layout_marginTop="7dp"
+       android:gravity="center"
+       android:background="@drawable/down_arrow"
+       android:layout_marginLeft="-30dp"
+       />
+  </LinearLayout>
+    <fragment
+        android:id="@+id/placeFragementHowToReach"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        
+        />
+</LinearLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight=".12" >
+    <FrameLayout
+        android:id="@+id/AdsFrameLayout"
+        style="@style/add_banner_width_height"
+        android:layout_gravity="bottom|center_horizontal"
+        android:background="@anim/banner_animator"
+        >
+        </FrameLayout>
+ </LinearLayout>
+</LinearLayout>

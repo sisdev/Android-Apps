@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llSearchResult"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1.0"
+    android:background="@drawable/bg"
+    android:orientation="vertical">
+     <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:orientation="vertical" 
+    android:layout_marginTop="10dp"
+    android:layout_weight="0.88">
+    <EditText
+        android:id="@+id/productSearchBoxSearch"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:singleLine="true"
+   		android:lines="1"
+        android:background="@drawable/rounder_button_white"
+        android:hint="@string/filterItem"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:padding="10dp"
+        android:textColor="@color/Gray"/>
+
+    <ListView
+        android:id="@+id/productListViewSearch"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".78"       
+        android:background="@drawable/rounder_button_white"
+        android:layout_margin="5dp"
+        android:fadingEdge="none"
+        android:padding="5dp"
+        style="@style/txtStyle" >
+
+    </ListView>
+</LinearLayout>
+     <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="0dp"
+     android:layout_weight=".12" >
+    <FrameLayout
+        android:id="@+id/AdsFrameLayout"
+        style="@style/add_banner_width_height"
+        android:layout_gravity="bottom|center_horizontal"
+         android:background="@anim/banner_animator">
+        </FrameLayout>
+</LinearLayout>
+    
+</LinearLayout>

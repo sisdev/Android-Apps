@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Android-Apps\\trng\\AnimationDemo01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Android-Apps\\trng\\AnimationDemo01\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\trng\\AnimationDemo01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_info.png",
+        "source": "D:\\Android-Apps\\trng\\AnimationDemo01\\app\\src\\main\\res\\drawable-hdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\trng\\AnimationDemo01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_new.png",
+        "source": "D:\\Android-Apps\\trng\\AnimationDemo01\\app\\src\\main\\res\\drawable-hdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\trng\\AnimationDemo01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_photo.png",
+        "source": "D:\\Android-Apps\\trng\\AnimationDemo01\\app\\src\\main\\res\\drawable-hdpi\\ic_action_photo.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\trng\\AnimationDemo01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_list_remove.png",
+        "source": "D:\\Android-Apps\\trng\\AnimationDemo01\\app\\src\\main\\res\\drawable-hdpi\\ic_list_remove.png"
+    }
+]

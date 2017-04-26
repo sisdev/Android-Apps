@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   
+    android:orientation="vertical" 
+    android:background="@drawable/bg">
+
+    <LinearLayout 
+        android:layout_height="40dp"
+        android:layout_width="fill_parent"
+        
+        android:gravity="center"
+        android:weightSum="1.0"
+        android:orientation="horizontal"
+        android:background="@drawable/blue_header" >
+        <ImageView 
+        android:id="@+id/imagviewHome1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.8"
+        android:src="@drawable/appicon"
+        android:onClick="gotoNbtIndia"/>
+    <TextView
+        android:id="@+id/txtTitleActionBar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.2"
+        android:text="Notification"
+        android:gravity="left|center_vertical"
+        
+        android:textColor="@color/white"
+        android:textSize="20sp"
+         />
+    
+    </LinearLayout>
+
+  
+
+    <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="10dp" 
+    android:layout_weight="0.12"
+    >
+    <TextView
+        android:id="@+id/tvNotiExbNameProvider"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       android:layout_marginTop="20dp"
+       android:layout_marginLeft="20dp"
+       android:layout_marginRight="20dp"
+       android:gravity="left"
+        android:text="EPCH"
+        android:textColor="@color/white"
+        android:background="@color/semi_transparent"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:padding="10dp"
+        />
+    
+    
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@color/semi_transparent"
+        android:orientation="vertical"
+       >
+   
+    
+	
+		<ScrollView 
+		    
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="0.9"
+		        android:layout_marginBottom="10dp">
+		    <LinearLayout
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		       
+		        android:orientation="horizontal"
+		        android:weightSum="1.0" 
+		        android:layout_marginBottom="20dp"
+		        >
+		
+		        <TextView
+		            android:id="@+id/tvGCMReminderActivity"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="0.50"
+		            android:text="notification text"
+		            android:textColor="@color/white"
+		            android:padding="10dp"
+		            android:textSize="14sp"
+		            />
+		    </LinearLayout>
+		    </ScrollView>
+		    <Button android:layout_width="match_parent"
+		        android:layout_height="30dp"
+		        android:onClick="clickOkgcm"
+		        android:text="OK"
+		        android:layout_weight="0.1"
+		        android:background="@drawable/common_button_selector"
+		        android:textColor="@color/black"
+		        android:textSize="20sp"
+		        android:layout_marginLeft="20dp"
+		        android:layout_marginRight="20dp"
+		        android:layout_marginBottom="10dp"
+		        />
+		    
+    </LinearLayout>     
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.epch.efair.delhifair"
+    android:installLocation="preferExternal"
+    android:versionCode="31"
+    android:versionName="7.0" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- gcm related permissions -->
+    <!-- GCM requires a Google account. -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+
+    <!-- Keeps the processor from sleeping when a message is received. -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <!-- Creates a custom permission so only this app can receive its messages. -->
+    <permission
+        android:name="com.epch.efair.delhifair.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.epch.efair.delhifair.permission.C2D_MESSAGE" />
+
+    <!-- This app has permission to register and receive data message. -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <!-- Network State Permissions to detect Internet status -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <!-- Permission to vibrate -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <application
+        android:name="com.epch.efair.delhifair.EFairEmallApplicationContext"
+        android:allowBackup="true"
+        android:icon="@drawable/appicon"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:theme="@android:style/Theme.NoTitleBar" >
+
+        <!-- Used for Google Play Store Campaign Measurement -->
+;
+        <service android:name="com.google.analytics.tracking.android.CampaignTrackingService" />
+
+        <!-- registering geofencing services -->
+        <service
+            android:name="com.assusoft.eFairEmall.locationbasedpopup.geofencing.ReceiveTransitionsIntentService"
+            android:exported="false" />
+
+        <!-- register the alarm receiver -->
+        <receiver android:name="com.assusoft.eFairEmall.notificationMaster.AlarmReceiver" />
+        <receiver
+            android:name="com.assusoft.eFairEmall.notificationMaster.BootReceiver"
+            android:enabled="false" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <!--
+            Because android:exported is set to "false",
+            the service is only available to this app.
+        -->
+        <service
+            android:name="com.assusoft.eFairEmall.notificationMaster.ReminderService"
+            android:exported="false" />
+
+        <!-- gcm related -->
+        <receiver
+            android:name="com.assusoft.efair.epchfair.gcm.GcmBroadcastReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+
+                <!-- Receives the actual messages. -->
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <!-- Receives the registration id. -->
+                <!-- <action android:name="com.google.android.c2dm.intent.REGISTRATION" /> -->
+
+                <category android:name="com.epch.efair.delhifair" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.assusoft.efair.epchfair.gcm.GcmIntentService"
+            android:enabled="true" />
+
+        <activity
+            android:name="com.epch.efair.delhifair.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="application/json" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.epch.efair.delhifair.HomeActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:windowSoftInputMode="adjustNothing" >
+        </activity>
+        <activity android:name="com.epch.efair.delhifair.HomeActivityDelhiFair" />
+        <activity
+            android:name="com.epch.efair.delhifair.WebViewActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light" >
+        </activity>
+        <activity android:name="com.assusoft.eFairEmall.notificationMaster.ReminderActivity" />
+        <activity android:name="com.assusoft.efair.epchfair.gcm.GCMReminderActivity" />
+        <activity
+            android:name="com.assusoft.efair.qrcode.CaptureActivity1"
+            android:clearTaskOnLaunch="true"
+            android:configChanges="orientation|keyboardHidden"
+            android:icon="@drawable/icon"
+            android:label="@string/capture_name"
+            android:screenOrientation="landscape"
+            android:stateNotNeeded="true"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name="com.epch.efair.delhifair.HomeAcitityFirst"
+            android:screenOrientation="portrait" />
+
+        <!-- launch the facebook native login activity -->
+        <activity android:name="com.facebook.LoginActivity" />
+
+        <!--
+      <activity
+      android:name="com.google.ads.AdActivity"
+      android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
+        -->
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/app_id" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyA7t0tLHCM2eamDyYoQzfLdS75W3gPrc4A" />
+ <!-- Official -->
+
+
+        <!--
+           <meta-data android:name="com.google.android.maps.v2.API_KEY" 
+           android:value="AIzaSyDIcG-vhy1i2n58UydBjUN2lbcuKfDPCYY"/>
+        -->
+        <!--
+             <meta-data
+            android:name="ADMOB_PUBLISHER_ID"
+            android:value="a153857519b5385" />
+        -->
+        <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+            android:theme="@style/Theme.IAPTheme" />
+        <activity
+            android:name="com.google.android.gms.appinvite.PreviewActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppInvite.Preview" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+Service handling Google Sign-In user revocation. For apps that do not integrate with
+            Google Sign-In, this service will never be started.
+        -->
+        <service
+            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+            android:exported="true"
+            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+
+        <provider
+            android:name="com.google.android.gms.measurement.AppMeasurementContentProvider"
+            android:authorities="com.epch.efair.delhifair.google_measurement_service"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.measurement.UPLOAD" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+    </application>
+
+</manifest>

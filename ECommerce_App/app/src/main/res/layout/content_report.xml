@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:layout_marginTop="55dp"
+    android:background="@drawable/customborder"
+    tools:showIn="@layout/activity_report"
+    tools:context="com.example.sunita.ecommerce_app.Task_Summary">
+
+    <TextView
+        android:id="@+id/header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Completed Tasks"
+        android:textSize="20dp"
+        style="@style/TextViewH"/>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/header"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal"
+        android:weightSum="3"
+        android:id="@+id/linear1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Select Date"
+            android:layout_weight="1"
+            style="@style/TextViewH"/>
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/btndate"/>
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:text="Submit"
+            android:id="@+id/btnsubmit"
+            android:layout_weight="1"
+            style="@style/ButtonStyleText"
+            android:background="@drawable/buttonshape_green"/>
+
+
+
+
+
+
+    </LinearLayout>
+    <LinearLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:weightSum="5"
+        android:layout_marginTop="9dp"
+        android:layout_below="@+id/linear1"
+        android:id="@+id/listviewheading">
+
+        <TextView android:layout_height="wrap_content"
+            android:layout_width="50dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:gravity="left"
+            style="@style/ListViewTitle"
+            android:text="Order#"/>
+
+        <TextView android:layout_height="wrap_content"
+            android:layout_width="100dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            style="@style/ListViewTitle"
+            android:gravity="left"
+            android:text="Name"/>
+
+        <TextView android:layout_height="wrap_content"
+            android:layout_width="100dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            style="@style/ListViewTitle"
+            android:gravity="left"
+            android:text="Add"/>
+
+        <TextView android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:gravity="left"
+            style="@style/ListViewTitle"
+            android:text="Amt."/>
+
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="3dp"
+        android:background="@color/colorPrimary"
+        android:layout_below="@+id/listviewheading"/>
+
+
+    <ListView
+        android:id="@+id/list_myreport"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="3dp"
+        android:layout_below="@+id/listviewheading"
+        android:background="#F8F8FF"
+        android:divider="@color/list_divider"
+        android:dividerHeight="2dp"
+        />
+
+</RelativeLayout>

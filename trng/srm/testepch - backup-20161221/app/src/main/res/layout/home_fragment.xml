@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1.0"
+    android:background="@drawable/menu_bg"
+   
+    android:orientation="vertical" >
+    
+  <LinearLayout
+        android:id="@+id/ll"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.25"
+        android:orientation="vertical"
+       >
+       </LinearLayout>
+    <LinearLayout
+        
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:weightSum="1.0" 
+        android:layout_weight="0.25"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:orientation="horizontal"
+       >
+
+        <ImageButton
+            android:id="@+id/imgBtnExhibitors"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:background="@color/transparent"
+            android:onClick="search"
+            android:padding="0dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/home_btn_exhibitor_selector" />
+        
+        <ImageButton
+            
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/home_btn_conclave_selector" 
+            android:layout_weight="0.5"
+            android:background="@color/transparent"
+            android:padding="0dp"
+            android:scaleType="centerInside"
+            android:layout_gravity="center"
+            android:onClick="conclave"            
+            />
+          
+        </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+       android:layout_height="0dp"
+        android:weightSum="1.0" 
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_weight="0.25">
+       <ImageButton
+            android:id="@+id/imgBtnExibitor"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/home_btn_news_selector" 
+            android:layout_weight="0.5"
+            android:background="@color/transparent"
+             android:padding="0dp"
+            android:scaleType="centerInside"
+             android:onClick="news"
+            android:layout_gravity="center"
+            />
+       
+         <ImageButton
+           
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/home_btn_nearby_selector" 
+            android:layout_weight="0.5"
+            android:background="@color/transparent"
+            android:padding="0dp"
+            android:scaleType="centerInside"
+            android:onClick="nearBy"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:weightSum="1.0" 
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal"
+        android:layout_weight="0.25">
+
+        <ImageButton
+            android:id="@+id/imgBtnMap"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/home_btn_venue_selector" 
+            android:layout_weight="0.5"
+             android:background="@color/transparent"
+            android:padding="0dp"
+            android:scaleType="centerInside"
+             
+            android:onClick="gotoVenuMap"
+             android:layout_gravity="center"/>
+        <ImageButton
+           
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/home_btn_sn_selector" 
+            android:layout_weight="0.5"
+            android:background="@color/transparent"
+            android:padding="0dp"
+            android:scaleType="centerInside"
+            android:layout_gravity="center"
+            android:onClick="gotoMyQR"
+            />
+
+    </LinearLayout>
+  
+   <!-- <com.google.ads.AdView
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:id="@+id/adView"
+     android:layout_weight="0.14"
+    android:layout_width="fill_parent"
+   android:layout_height="30dp"
+   android:layout_marginBottom="-10dp"
+    android:layout_gravity="bottom"
+    ads:adUnitId="a152d64d69361f1"
+    ads:adSize="BANNER"
+   /> -->
+</LinearLayout>

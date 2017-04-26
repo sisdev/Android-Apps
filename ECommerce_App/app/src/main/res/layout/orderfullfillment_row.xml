@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginTop="9dp"
+        android:id="@+id/listviewheading">
+
+        <TextView
+            android:id="@+id/itemcode"
+            android:layout_height="wrap_content"
+            android:layout_width="50dp"
+            style="@style/ListViewTitle"
+            android:text="Item#"/>
+
+        <TextView
+            android:id="@+id/itemname"
+            android:layout_height="wrap_content"
+            android:layout_width="180dp"
+            style="@style/ListViewrow"
+            android:text="Item Name"/>
+
+        <TextView
+            android:id="@+id/qty"
+            android:layout_height="wrap_content"
+            android:layout_width="50dp"
+            style="@style/ListViewTitle"
+            android:text="OQty"/>
+
+        <EditText
+            android:id="@+id/editdata"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            style="@style/ListViewrow"
+            android:inputType="number" />
+
+</LinearLayout>
+
+    </LinearLayout>

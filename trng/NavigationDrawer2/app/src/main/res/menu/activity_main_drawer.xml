@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="About">
+        <menu>
+
+
+            <item android:title="About App"
+                android:id="@+id/about_app"
+                android:icon="@drawable/aboutapp"
+                />
+     </menu>
+    </item>
+
+    <item android:title="Other">
+        <menu>
+          <item
+                android:title="Share App"
+                android:id="@+id/Share_app"
+                android:icon="@drawable/share"/>
+
+            <item
+                android:title="Email"
+                android:id="@+id/email"
+                android:icon="@drawable/email"/>
+
+          </menu>
+    </item>
+</menu>
+
+

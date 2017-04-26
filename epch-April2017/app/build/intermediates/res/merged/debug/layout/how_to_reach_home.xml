@@ -1,0 +1,179 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:background="@drawable/bg">
+    
+    <ScrollView 
+         android:layout_width="fill_parent"
+         android:layout_height="fill_parent" 
+         android:layout_above="@+id/routesOnMap">
+    <LinearLayout 
+       android:layout_width="fill_parent"
+       android:layout_height="fill_parent"  
+       android:orientation="vertical"
+       >
+       <TextView
+        android:id="@+id/textViewHeader"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="Pragati Maidan"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/white"
+        android:background="@drawable/semi_rounded_button"
+        style="@style/txtStyle"
+        android:gravity="center" 
+        android:layout_marginTop="5dp"
+        />
+    <TextView
+        android:id="@+id/textView135"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+       
+        android:text="Pragati Maidan is situated in the Central Place of the capital City of Delhi, and is well connected with all modes of Transport – Metro, Taxi, City Buses, Three Wheeled Auto Rikshaw, etc. Pragati Maidan is well connected with the all the Important places of Delhi, like Rajiv Chowk - 3 Km; India Gate and Central Secretariat – 2 Km; New Delhi Railway Station – 5 KM; Old Delhi (Chandni Chowk, Red Fort, Old Delhi Railway Station, etc.) – around 8 to 10 Km. All these places can be visited by using the Metro, City Buses and Taxis, that are connected with Pragati Maidan with good frequency of services."
+       android:padding="10dp"
+        android:gravity="fill"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#fff"/>
+    <TextView
+        android:id="@+id/textView132"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="Delhi Metro"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/white"
+        android:background="@drawable/semi_rounded_button"
+        style="@style/txtStyle"
+        android:gravity="center" 
+        android:layout_marginTop="5dp"
+        />
+    <TextView
+        android:id="@+id/textView130"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Pragati Maidan is connected by Delhi Metro from various parts of the Delhi National Capital Region (Delhi NCR), including Noida and Gurgaon.  Use the blue line to reach Pragati Maidan by Delhi Metro. Get down at Pragati Maidan Metro station which is located near to  Pragati Maidan  is  walkable distance from the station.   "
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#fff"/>
+    <TextView
+        android:id="@+id/textView129"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="By City Bus"
+        android:textAppearance="?android:attr/textAppearanceLarge" 
+        android:textColor="@color/white"
+        android:background="@drawable/semi_rounded_button"
+        style="@style/txtStyle"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        />
+    <TextView
+        android:id="@+id/textView128"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Delhi Transport Corporation (DTC), operates Low Floor City Buses (airconditioned and non airconditioned buses) connecting the Delhi NCR with frequent services. These buses also operates between Delhi International Airport and various locations of Delhi. A number buses pass through Pragati Maidan Gate 2, 5 and 7 and these can be used for reaching the Exhibition Venue."
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#fff"/>
+    <TextView
+        android:id="@+id/textView127"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="Airport to Pragati Maidan"
+        android:textAppearance="?android:attr/textAppearanceLarge" 
+        android:textColor="@color/white"
+        android:background="@drawable/semi_rounded_button"
+        style="@style/txtStyle"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        />
+    <TextView
+        android:id="@+id/textView125"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="The Indira Gandhi International Airport in New Delhi India (Terminar 3 and Domestic Terminal No. 1D) is only about 17 kilometers away from Pragati Maidan Exhibition Centre. Pre-paid and Radio Taxi services are available from these airports to Pragati Maidan – the Exhibition Centre – The travel time is between 30 to 45 minutes depending upon the city traffic."
+       
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#fff"/>
+    <TextView
+        android:id="@+id/textView124"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="By Taxi"
+        android:textAppearance="?android:attr/textAppearanceLarge" 
+        android:textColor="@color/white"
+        android:background="@drawable/semi_rounded_button"
+        style="@style/txtStyle"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        />
+    <TextView
+        android:id="@+id/textView123"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Radio Taxis are available round the clock in Delhi NCR and these can be booked for reaching Pragati Maidan.   A number of Radio Cabs are also available in Delhi NCR and contact numbers of these are available in the Delhi Maps or at Tourism Counters at the Airport and Railway Stations."
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#fff" />
+    <TextView
+        android:id="@+id/textView122"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="Three Wheeler Auto Rikshaws"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/white"
+        android:background="@drawable/semi_rounded_button"
+        style="@style/txtStyle" 
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        />
+    <TextView
+        android:id="@+id/textView121"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="This is another Public Transport that is available in most part of Delhi NCR and these three wheelers are on the move in the city. One can stop these Vehicles on the Road and use this also to reach Pragati Maidan."
+        
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#fff"/>
+    
+    </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/routesOnMap"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_above="@+id/AdsFrameLayout"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/main_btn_selector"
+        android:textColor="@color/white"
+        android:layout_margin="10dp"
+        android:text="Routes On Map" />
+<FrameLayout
+        android:id="@+id/AdsFrameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+         >
+</FrameLayout>
+</RelativeLayout>

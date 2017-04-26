@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@drawable/bg">
+    <LinearLayout 
+        android:id="@+id/llFirst"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/pll"
+        android:orientation="vertical">
+        <TextView 
+            android:layout_width="match_parent"
+            android:layout_height="4dp"
+            android:background="@android:color/transparent"/>
+    
+    <!-- ExtendedViewPager is a custom view and must be referred to by its full package name in XML -->
+
+	<com.assusoft.tmxloader.library.ExtendedViewPager
+	    android:id="@+id/view_pagerimage"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content" 
+	   />
+	<TextView 
+	    android:id="@+id/textviewphotoshoot"
+	    android:text="Please click Add button to capture photos."
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_marginTop="-200dp"
+	    android:gravity="center"
+	    android:textSize="20sp"
+	    android:textColor="@color/white"
+	    android:textStyle="bold"/>
+
+	
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_above="@+id/pll"
+        android:layout_below="@+id/view_pagerimag"
+       
+       
+        
+        
+         >
+
+	 <TextView
+	     android:id="@+id/tvCount"
+	     android:layout_width="wrap_content"
+	     android:layout_height="35dp"
+	     android:layout_gravity="center"
+	     
+	     android:gravity="center"
+	     
+	     android:text=""
+	     android:textColor="@color/white"
+	     android:textSize="17dp" 
+	     android:layout_weight="1.0"/>
+
+	</LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/pll"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:layout_above="@+id/AdsFrameLayout"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:background="@color/transparent"
+         >
+
+        <ImageButton
+            android:id="@+id/photoshootbtnedit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/edit_btn_selector" 
+            android:layout_weight="0.33"
+            android:layout_gravity="center"
+            android:scaleType="fitCenter"
+            android:background="@color/transparent"/>
+        <ImageButton
+            android:id="@+id/photoshootbtndelete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/delete_button_selector" 
+            android:layout_weight="0.33"
+            android:layout_gravity="center"
+            android:background="@color/transparent"
+            android:scaleType="fitCenter"/>
+        <ImageButton
+            android:id="@+id/photoshootbtncapture"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/add_image_capture" 
+            android:layout_weight="0.33"
+            android:layout_gravity="center"
+            android:background="@color/transparent"
+            android:scaleType="fitCenter"/>
+
+    </LinearLayout>
+    <FrameLayout
+        android:id="@+id/AdsFrameLayout"
+        style="@style/add_banner_width_height"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_alignParentBottom="true"
+        
+        android:background="@anim/banner_animator"
+        >
+        </FrameLayout>
+
+</RelativeLayout>

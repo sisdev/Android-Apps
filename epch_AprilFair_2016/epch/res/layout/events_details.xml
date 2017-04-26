@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+   android:weightSum="1.0"
+    android:background="@drawable/bg">
+<ScrollView 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     android:layout_marginLeft="10dp"
+     android:layout_marginRight="10dp"
+     android:layout_marginTop="20dp"
+     android:fadingEdge="none" > 
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+   
+    >
+    <TextView
+        android:id="@+id/tvNameHeader"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="Name"
+        android:padding="5dp"
+        android:gravity="center_vertical"
+        android:background="@drawable/semi_rounded_button"
+        android:textColor="@color/black"
+        style="@style/txtStyle" />
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/gradient_end_color"
+         
+         android:layout_marginBottom="10dp">
+    <TextView
+        android:id="@+id/tvEventName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Large Text"
+        android:padding="10dp"
+        android:gravity="center_vertical"
+        style="@style/txtSizeBellowNarmal" 
+        android:background="@color/white"
+        android:textColor="@color/packplus_blue" />
+    
+    </LinearLayout>
+   
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="Time"
+        android:gravity="center_vertical"
+        android:paddingLeft="5dp"
+         android:background="@drawable/semi_rounded_button"
+        android:textColor="@color/black"
+        style="@style/txtStyle" />
+
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+      android:background="@color/gradient_end_color"
+         
+         android:layout_marginBottom="10dp">
+    <TextView
+        android:id="@+id/tvTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Large Text"
+        android:padding="10dp"
+        android:gravity="center_vertical"
+        android:background="@color/white"
+        android:textColor="@color/packplus_blue" 
+        style="@style/txtSizeBellowNarmal"  />
+    </LinearLayout>
+    <TextView
+        android:id="@+id/tvDescriptionHeader"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="Description"
+        android:gravity="center_vertical"
+        android:paddingLeft="5dp"
+        android:background="@drawable/semi_rounded_button"
+        android:textColor="@color/black"
+        style="@style/txtStyle" />
+
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+      android:background="@color/gradient_end_color"
+         
+         android:layout_marginBottom="10dp">
+    <TextView
+        android:id="@+id/tvDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Large Text"
+        android:padding="10dp"
+        android:gravity="center_vertical"
+        android:background="@color/white"
+        android:textColor="@color/packplus_blue" 
+        style="@style/txtSizeBellowNarmal"  />
+    </LinearLayout>
+     
+     
+     
+    
+
+    <TextView
+        android:id="@+id/tvModeraterHeader"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="Moderater"
+        android:gravity="center_vertical"
+        android:padding="5dp"
+        android:background="@drawable/semi_rounded_button"
+        android:textColor="@color/black"
+        style="@style/txtStyle" />
+  
+    <TextView
+        android:id="@+id/tvModerater"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Large Text"
+        android:padding="10dp"
+        android:layout_marginBottom="10dp"
+         android:background="@color/white"
+        android:textColor="@color/packplus_blue" 
+        style="@style/txtSizeBellowNarmal"  />
+    
+    
+     
+     <TextView
+        android:id="@+id/tvPanelHeader"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="Panelists"
+        android:gravity="center_vertical"
+        android:padding="5dp"
+        android:background="@drawable/semi_rounded_button"
+        android:textColor="@color/black"
+        style="@style/txtStyle" />
+     <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/gradient_end_color"
+        android:layout_marginBottom="10dp">
+        
+    <TextView
+        android:id="@+id/tvPanel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Large Text"
+        android:padding="10dp"
+        android:background="@color/white"
+        android:textColor="@color/packplus_blue" 
+        style="@style/txtSizeBellowNarmal"  />
+    
+    
+    
+ </LinearLayout>   
+ </LinearLayout>
+ </ScrollView>
+<!-- <FrameLayout
+        android:id="@+id/AdsFrameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="bottom"
+        android:layout_weight="0.12"
+        >
+        </FrameLayout> -->
+</LinearLayout>

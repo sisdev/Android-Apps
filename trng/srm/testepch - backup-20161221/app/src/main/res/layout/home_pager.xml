@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:weightSum="1.0"
+    android:background="@drawable/menu_bg"
+    android:layout_marginBottom="0dp"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".19"
+        android:layout_marginRight="20dp" >
+ 	<ImageButton
+ 	    android:id="@+id/homeInfo"
+ 	    android:layout_width="wrap_content"
+ 	    android:layout_height="wrap_content" 	    
+ 	    android:scaleType="fitCenter"
+ 	    android:layout_alignParentRight="true"
+ 	    android:layout_centerVertical="true"
+ 	    android:padding="2dp"
+ 	    android:background="@drawable/info_selector" />
+ 	</RelativeLayout>
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:orientation="vertical" 
+    android:layout_weight="0.68"
+    android:weightSum="1.0">
+
+  <LinearLayout
+      android:layout_width="fill_parent"
+      android:layout_height="match_parent" >
+
+		    <android.support.v4.view.ViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+		    android:id="@+id/pagerEvent"
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent"
+		    >
+		     </android.support.v4.view.ViewPager>
+  </LinearLayout>
+     </LinearLayout>
+   <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:weightSum="1.0" 
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="0dp"
+        android:orientation="vertical"
+        android:layout_weight="0.02">
+        <ImageButton
+            android:id="@+id/imgSelectIndicator"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/first" 
+             android:background="@color/transparent"
+            android:padding="0dp"
+            
+             android:layout_gravity="center"/>
+
+    </LinearLayout>  
+ <RelativeLayout 
+     android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="bottom"
+        android:layout_weight="0.11"
+        
+     >
+ <FrameLayout
+        android:id="@+id/AdsFrameLayout"
+        style="@style/add_banner_width_height"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:background="@anim/banner_animator"
+        android:layout_marginBottom="0dp"
+       
+        >
+        </FrameLayout>
+   </RelativeLayout>
+</LinearLayout>

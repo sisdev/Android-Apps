@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1.0"
+     android:background="@color/white"
+    android:orientation="horizontal" >
+    <LinearLayout 
+        android:id="@+id/llListitemExb"
+         android:layout_width="0dp"
+         android:layout_height="80dp"
+         android:layout_weight="0.8"
+         android:orientation="vertical"
+         android:gravity="center_vertical"
+	    android:layout_gravity="center_vertical"
+	     android:background="@drawable/exhibitor_list_selector"
+	     android:paddingLeft="10dp"
+	     android:paddingRight="10dp"
+        >
+    <TextView
+        android:id="@+id/tvlistitemExb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+	    android:text="@string/first_day_add"
+	    android:gravity="center_vertical"
+	    style="@style/txtSize"
+	     android:textColor="@color/Dark_Gray"
+	    />
+    <TextView
+        android:id="@+id/tvlistitemExbLoc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+	    android:text="@string/first_day_add"
+	    android:textStyle="italic"
+	    android:textSize="12sp"
+	    android:gravity="center_vertical"
+	    android:textColor="@color/Gray"
+	    />
+    </LinearLayout>
+   <ImageButton 
+       android:id="@+id/btnEventLogo"
+        android:layout_width="0dp"
+        android:layout_weight="0.2"
+        android:layout_height="60dp"
+        android:clickable="true"
+        android:layout_gravity="center"
+       android:background="@color/white"
+       android:src="@drawable/schedule_button_selector"
+        /> 
+
+</LinearLayout>

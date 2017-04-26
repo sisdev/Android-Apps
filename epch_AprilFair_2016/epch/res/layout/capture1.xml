@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Copyright (C) 2008 ZXing authors
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="fill_parent"
+             android:layout_height="fill_parent">
+
+  <SurfaceView android:id="@+id/preview_view"
+               android:layout_width="fill_parent"
+               android:layout_height="fill_parent">
+  </SurfaceView>
+
+  <com.assusoft.efair.qrcode.ViewfinderView
+      android:id="@+id/viewfinder_view"
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent"
+      android:background="@color/transparent">
+  </com.assusoft.efair.qrcode.ViewfinderView>
+
+  
+   <!-- this layout is visible if another qrcode scanned rather than application -->
+   
+ <LinearLayout 
+               android:id="@+id/result_view"
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/bg"
+                android:gravity="center"
+                android:padding="4dip" 
+                android:weightSum="1.0">
+
+                <TextView 
+                   android:layout_width="fill_parent"
+                   android:layout_height="wrap_content" 
+                   android:layout_margin="20dp"
+                   android:id="@+id/tvResultView"
+                   android:text="ljjjfaklsfjlafjlsafasfjaslkfjasklf"
+                   android:gravity="center|left"
+                   android:layout_weight="0.8"
+                   android:textStyle="bold"
+                   android:background="@color/semi_transparent"
+                   android:textColor="@color/white"
+                   android:padding="2dp"/>
+                <!-- android:textColor="@color/Dark_Gray" -->
+           
+ 
+    <LinearLayout 
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight=".20"
+        android:layout_marginBottom="0dp">
+        <Button 
+            android:id="@+id/btnWebSearch"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:text="Open URL"
+            android:layout_gravity="center"
+            android:background="@drawable/common_button_selector"
+            android:textColor="@color/white"/>
+         
+    </LinearLayout>
+     
+  
+
+ </LinearLayout>
+ <!-- this layout is visible if Qrcode is encoded by same application --> 
+ 
+  <!-- android:background="@color/result_view" -->
+
+ <LinearLayout 
+               android:id="@+id/result_view1"
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+               
+                android:gravity="center"
+                android:padding="4dip" 
+                android:weightSum="1.0"
+                android:background="@drawable/bg">
+
+               <TextView 
+                   android:layout_width="fill_parent"
+                   android:layout_height="wrap_content" 
+                   android:layout_margin="20dp"
+                   android:id="@+id/tvResultView1"
+                   android:text="ljjjfaklsfjlafjlsafasfjaslkfjasklf"
+                   android:layout_weight="0.8"
+                   android:gravity="center|left"
+                   android:textStyle="bold"
+                   android:background="@color/semi_transparent"
+                   android:textColor="@color/white"
+                   android:padding="5dp"/>
+    
+
+ 
+   <LinearLayout 
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight=".20"
+        android:layout_marginBottom="0dp"
+        android:layout_gravity="center">
+        <Button 
+            android:id="@+id/btncapturExhibitorInfo"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:text="Exhibitor Info"
+            android:layout_weight="0.33"
+            android:layout_marginRight="2dp"
+            android:background="@drawable/common_button_selector"
+            android:textColor="@color/white"
+            android:layout_gravity="center"/>
+         <Button 
+            android:id="@+id/btnCaptureLocate"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:text="Locate"
+            android:layout_weight="0.33"
+            android:layout_marginLeft="2dp"
+            android:background="@drawable/common_button_selector"
+            android:textColor="@color/white"
+            android:layout_gravity="center"/>
+          <Button 
+            android:id="@+id/btnCaptureAlbum"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:text="Album"
+            android:layout_weight="0.33"
+            android:layout_marginLeft="2dp"
+            android:background="@drawable/common_button_selector"
+            android:textColor="@color/white"
+            android:layout_gravity="center"/>
+         
+         
+    </LinearLayout>
+    
+  
+</LinearLayout>
+  
+ <!-- this layout is visible if Qrcode is encoded for route souce or destination --> 
+ 
+  <!-- android:background="@color/result_view" -->
+ 
+ <LinearLayout 													
+               android:id="@+id/result_view2"
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+               
+                android:gravity="center"
+                android:padding="4dip" 
+                android:weightSum="1.0"
+                android:background="@drawable/bg">
+
+               <TextView 
+                   android:layout_width="fill_parent"
+                   android:layout_height="wrap_content" 
+                   android:layout_margin="20dp"
+                   android:id="@+id/tvResultView2"
+                   android:text="ljjjfaklsfjlafjlsafasfjaslkfjasklf"
+                   android:layout_weight="0.8"
+                   android:gravity="center|left"
+                   android:textStyle="bold"
+                   android:textColor="@color/white"
+                   android:background="@color/semi_transparent"
+                   android:padding="2dp"/>
+    
+
+ 
+   <LinearLayout 
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight=".20"
+        android:layout_marginBottom="0dp"
+        android:layout_gravity="center">
+        <Button 
+            android:id="@+id/btncapturSelect"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:text="Select"
+            android:layout_weight="0.50"
+            android:background="@drawable/common_button_selector"
+            android:textColor="@color/white"
+            android:layout_gravity="center"/>
+        
+         
+    </LinearLayout>
+    
+  
+</LinearLayout>
+  
+
+  <TextView android:id="@+id/status_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:background="@color/transparent"
+            android:text="@string/msg_default_status"
+            android:textColor="@color/white"
+            android:textSize="14sp">
+  </TextView>
+<!-- android:textColor="@color/status_text"   changed -->
+</FrameLayout>

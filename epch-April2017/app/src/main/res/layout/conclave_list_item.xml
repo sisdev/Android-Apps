@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:orientation="horizontal" 
+   android:clickable="true"
+    >
+        
+        <TextView
+            android:id="@+id/tvConclaveStartTime"
+            android:layout_width="60dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="0dp"
+            android:gravity="center"
+            android:text="11:00:00"
+            android:textSize="12sp"
+            android:textColor="@color/list_item_text_color"
+            android:background="@color/gradient_end_color"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+       
+        <TextView
+            android:id="@+id/tvConclaveName"
+            android:layout_width="260dp"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:textSize="12sp"
+            android:gravity="center_vertical"
+            android:layout_gravity="center_vertical"
+            android:text="Creative Writing WorkShop By NCERT "
+            android:textColor="@color/packplus_blue"
+            android:background="@drawable/conclave_item_selector"
+            />
+   
+
+</LinearLayout>

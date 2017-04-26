@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1"
+    android:background="@drawable/first_menu" >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".25" >
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".75"
+        android:orientation="vertical"
+        android:weightSum="1" >        
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight=".38"
+            android:weightSum="1"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:orientation="horizontal" >
+
+<!-- Fair Autumn October -->
+            <Button
+                android:id="@+id/btnAutomn"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight=".5"               
+                android:layout_margin="5dp"
+				android:padding="10dp"
+                android:background="@drawable/homeexpo_fair_btn_selector" />
+            
+            
+            <!-- Fair HomeExpo April -->
+            <Button
+                android:id="@+id/btnHomeExpo"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:layout_weight=".5"
+                android:background="@drawable/jewellery_expo_btn_selector"
+                android:padding="10dp"/>
+             
+       </LinearLayout>
+       <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight=".38"
+            android:weightSum="1"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:orientation="horizontal" >
+            
+<!-- Fair Fashion Jewellery July-->
+            <Button
+                android:id="@+id/btnFashionJewellery"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:layout_weight=".5"
+                android:background="@drawable/autumn_fair_btn_selector"
+                android:padding="10dp" /> 
+                
+            
+<!-- Fair Spring February-->  										
+             <Button
+                android:id="@+id/btnSpring"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:layout_weight=".5"
+                android:background="@drawable/spring_fair_btn_selector"
+                android:padding="10dp" />
+               
+       </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

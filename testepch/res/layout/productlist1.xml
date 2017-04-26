@@ -1,0 +1,60 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/cityListID"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg" >
+    
+    
+    
+    <LinearLayout 
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:layout_weight=".88"
+         android:orientation="vertical" 
+         android:weightSum="1"
+         android:layout_marginTop="10dp" >
+     
+    <EditText
+        android:id="@+id/productSearchBox"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        
+        android:background="@drawable/rounder_button_white"
+        android:hint="@string/filterItem"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:padding="10dp"
+        android:textColor="@color/Dark_Gray"/>
+
+
+    <ListView
+        android:id="@+id/productListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/rounder_button_white"
+        android:layout_margin="5dp"
+        android:fadingEdge="none"
+        android:padding="5dp"
+        style="@style/txtSize" >							<!-- rounder_button_white change as rectangle -->
+
+    </ListView>
+    
+   </LinearLayout>
+   <RelativeLayout 
+    android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.12">
+    <FrameLayout
+        android:id="@+id/AdsFrameLayout"
+        style="@style/add_banner_width_height"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_alignParentBottom="true"
+        android:background="@anim/banner_animator"
+        >
+        </FrameLayout>
+ </RelativeLayout>
+    
+</LinearLayout>

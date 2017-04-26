@@ -1,0 +1,115 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rootLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:weightSum="1.0"
+    android:orientation="vertical" >
+<RelativeLayout 
+    android:layout_weight="0.88"
+    android:layout_width="fill_parent"
+    android:layout_height="0dp" >
+    
+    <LinearLayout 
+        android:id="@+id/llSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@+id/routesTitleLayout"
+        android:weightSum="1.0">
+        
+    <Spinner
+         android:id="@+id/spinnerRouteHowtoReach"
+        android:drawSelectorOnTop="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:headerDividersEnabled="false"
+        android:footerDividersEnabled="false"
+        android:spinnerMode="dropdown"
+        android:background="@color/white"
+        android:layout_weight="0.9"
+        />
+    <ImageView 
+    android:layout_width="15dp"
+     android:layout_height="10dp"
+    android:maxWidth="30dp"
+    android:maxHeight="30dp"
+    android:layout_gravity="right"
+    android:layout_marginRight="20dp"
+    android:layout_marginTop="-40dp"
+    android:background="@drawable/down_arrow"
+    android:minWidth="20dp"
+    android:layout_weight="0.1"
+    android:minHeight="20dp"/>
+</LinearLayout>
+    <fragment
+        android:id="@+id/routesFragementHowToReach"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/llSpinner"
+        />
+<RelativeLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/semi_transparent"
+    android:layout_alignTop="@+id/routesFragementHowToReach" >
+    <TextView
+        android:id="@+id/tvRoutesInfoSource1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="40dp"
+        android:layout_alignParentRight="true"
+        style="@style/txtSizeBellowNarmal" />
+
+    <TextView
+        android:id="@+id/tvRoutesInfoDest1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="40dp"
+        android:layout_below="@+id/tvRoutesInfoSource1"
+        
+        android:marqueeRepeatLimit="marquee_forever"
+         style="@style/txtSizeBellowNarmal"
+        android:textColor="@color/titlebarText" />
+
+<TextView
+    android:id="@+id/tvFrom"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_marginLeft="2dp"
+    
+    
+    android:text="From:" />
+
+<TextView
+    android:id="@+id/tvTo"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_below="@+id/tvFrom"
+    android:layout_marginTop="10dp"
+    android:layout_marginLeft="2dp"
+   
+    android:layout_alignLeft="@+id/tvRoutesInfoDest1"
+    android:text="To:" />
+</RelativeLayout>
+</RelativeLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight=".12" >
+ <FrameLayout
+        android:id="@+id/AdsFrameLayout"
+        style="@style/add_banner_width_height"
+        android:layout_gravity="bottom|center_horizontal"
+        android:background="@anim/banner_animator"
+        >
+        </FrameLayout>
+ </LinearLayout>
+ </LinearLayout>

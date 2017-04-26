@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:weightSum="1.0"
+     android:background="@drawable/bg">
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:orientation="vertical" 
+    android:layout_weight="0.88"
+    android:weightSum="1.0">
+		    <LinearLayout
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="0.435" 
+		        android:paddingTop="5dp"
+		        android:paddingBottom="5dp"
+		        android:paddingLeft="40dp"
+		        android:paddingRight="40dp"
+		        android:gravity="center"
+		        android:background="@color/transparent">
+		
+		        <ImageButton
+		            android:id="@+id/btnPagerDateLeftscheduler"
+		            android:layout_width="36dp"
+		            android:layout_height="match_parent"
+		            android:layout_gravity="left"
+		            android:layout_marginLeft="10dp"
+		            android:layout_marginRight="5dp"
+		            android:scaleType="fitCenter"
+		            android:src="@drawable/arrow_l"
+		            android:background="@color/transparent"
+		            android:gravity="center_vertical" />
+		
+		        <android.support.v4.view.ViewPager
+		            xmlns:android="http://schemas.android.com/apk/res/android"
+		            android:id="@+id/pagerDatescheduler"
+		            android:layout_width="160dp"
+		            android:layout_height="match_parent"
+		            
+		            android:background="@drawable/rounder_button_white" >
+		
+		        </android.support.v4.view.ViewPager>
+		
+		        <ImageButton
+		            android:id="@+id/btnPagerDateRightscheduler"
+		            android:layout_width="36dp"
+		            android:layout_height="match_parent"
+		            android:layout_marginRight="10dp"
+		            android:layout_marginLeft="5dp"
+		           	android:background="@color/transparent"
+		            android:scaleType="fitCenter"
+		            android:src="@drawable/arrow_r"
+		            android:gravity="center_vertical" />
+		    </LinearLayout>
+
+		  <LinearLayout 
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="0.14"
+		        >
+				    <android.support.v4.view.ViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+				    android:id="@+id/pagerEventScheduler"
+				    android:layout_width="match_parent"
+				    android:layout_height="match_parent">
+				     </android.support.v4.view.ViewPager>
+		  </LinearLayout>
+		  <LinearLayout 
+		        android:layout_width="match_parent"
+		        android:layout_height="match_parent"
+		        android:layout_weight="0.435"
+		        android:layout_marginTop="5dp"
+		        android:weightSum="1.0"
+		        android:orientation="vertical">
+				    <Button
+		            	android:id="@+id/btnAddExhibitorSchedule"
+		            	android:layout_width="200dp"
+		             	android:layout_height="50dp"
+		             	android:layout_gravity="center_horizontal"
+		             	android:background="@drawable/common_button_selector"
+		             	android:text="Add Exhibitor"
+		             	android:textColor="@color/black"
+		           />
+				   
+				    
+		  </LinearLayout>
+     </LinearLayout>
+     
+<RelativeLayout 
+    android:layout_width="match_parent"
+       android:layout_height="0dp"
+       android:layout_weight="0.12"
+    >
+   <FrameLayout 
+       android:id="@+id/AdsFrameLayout"
+       android:layout_alignParentBottom="true"
+       style="@style/add_banner_width_height"
+       android:background="@drawable/banner_animator"></FrameLayout>
+   </RelativeLayout>
+  
+</LinearLayout>

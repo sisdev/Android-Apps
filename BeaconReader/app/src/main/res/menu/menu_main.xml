@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mohitsingh9512gmail.beaconreader.MainActivity">
+    <item
+        android:id="@+id/secure_connect_scan"
+        android:icon="@drawable/ic_action_device_access_bluetooth_searching"
+        android:orderInCategory="100"
+        android:title="@string/secure_connect"
+        app:showAsAction="always" />
+</menu>

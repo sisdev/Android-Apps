@@ -1,0 +1,17 @@
+{
+"mytask":
+		[
+	{
+ 	"task":"1", "orderno":"12345", "custname":"ankit", "custaddress":"Ghaziabad", "custaddress1":"Shipra Rivira", "totalamt":"2496", "status":"Order Fullfillment", "paymentmode" :"cod"
+  	},
+
+    {
+ 	"task":"2", "orderno":"12496", "custname":"anuj", "custaddress":"Delhi", "custaddress1":"Mayur vihar", "totalamt":"8500", "status":"Order Fullfillment", "paymentmode" :"cod"
+    },
+
+    {
+    "task":"3", "orderno":"12498", "custname":"anu", "custaddress":"U.P", "custaddress1":"Mayur vihar", "totalamt":"3500", "status":"Order Fullfillment", "paymentmode" :"cod"
+    }
+
+   ]
+};

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/bg">
+    
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:weightSum="1"
+        android:layout_weight=".08">
+    </LinearLayout>
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.22"
+        android:weightSum="1"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" 
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/btnUsefulfairfacility"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/fair_facilities_btn_selector"
+            android:scaleType="fitCenter"
+            android:background="@color/transparent"
+            android:layout_weight="0.5"/>									<!-- Facilities botton -->
+
+        <ImageButton
+            android:id="@+id/btnusefulshuttle"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/free_shuttle_info_btn_selector"
+            android:scaleType="fitCenter"
+            android:background="@color/transparent"
+            android:layout_weight="0.5"/>							<!-- Free shuttle info button -->
+        
+    </LinearLayout>
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"        
+        android:weightSum="1"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_weight="0.22"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/btnUsefulhotel"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/empanel_hotels_btn_selector"
+            android:scaleType="fitCenter"
+            android:background="@color/transparent"
+            android:layout_weight="0.5"/>						<!-- Empanel hotel button -->
+
+        <ImageButton
+            android:id="@+id/btnusefulhelpdeskNo"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/helpdesk_no_btn_selector"
+            android:scaleType="fitCenter"
+            android:background="@color/transparent"
+            android:layout_weight="0.5"/>								<!-- Help desk no button -->
+        
+    </LinearLayout>
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:weightSum="1"
+        android:layout_weight=".22">	
+         <ImageButton
+            android:id="@+id/btnusefulHelp"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/about_app_btn_selector"
+            android:scaleType="fitCenter"
+            android:background="@color/transparent"
+            android:layout_weight="0.5"/>	
+            <ImageButton
+            android:id="@+id/btnusefulIHGFIntro"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/about_ihgf_selector"
+            android:scaleType="fitCenter"
+            android:background="@color/transparent"
+            android:layout_weight="0.5"/>
+    </LinearLayout>
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:weightSum="1"
+        android:layout_weight=".06">
+    </LinearLayout>
+    <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="0dp"
+     android:layout_weight=".12" >
+    <FrameLayout
+        android:id="@+id/AdsFrameLayout"
+        style="@style/add_banner_width_height"
+        android:layout_gravity="bottom|center_horizontal"
+         android:background="@anim/banner_animator">
+        </FrameLayout>
+</LinearLayout>
+
+</LinearLayout>

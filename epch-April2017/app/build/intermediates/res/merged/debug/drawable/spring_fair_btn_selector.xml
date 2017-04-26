@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item android:drawable="@drawable/spring_disabled" 
+        android:state_enabled="false"></item>
+    <item android:drawable="@drawable/spring_disabled" 
+        android:state_pressed="true"/>					<!-- press -->
+    <item android:state_focused="true"
+           android:drawable="@drawable/spring_disabled" /><!-- focus -->
+    <item android:state_hovered="true"
+         android:drawable="@drawable/spring_disabled" ></item>       
+    <item android:drawable="@drawable/spring"/>				<!-- default -->
+
+</selector>

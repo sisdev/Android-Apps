@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     android:weightSum="1.0"
+     android:background="@drawable/bg"
+    android:orientation="vertical" >
+    <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:orientation="vertical" 
+    android:layout_weight="0.88"
+   >
+    <LinearLayout 
+     android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:weightSum="1.0"
+    android:orientation="horizontal" >
+    <Button 
+        android:id="@+id/btnExhibitors"
+        android:background="@color/Light_Gray"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.33"
+        android:textColor="@color/Dark_Gray"
+        android:text="Exhibitors"
+        style="@style/txt_medium"
+        />
+    <Button 
+        android:id="@+id/btnPoductName"
+        android:background="@color/Light_Gray"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+         android:layout_weight="0.33"
+         android:textColor="@color/Dark_Gray"
+        android:text="Products"
+        style="@style/txt_medium"
+        />
+    <Button 
+        android:id="@+id/btnHallNumber"
+        android:background="@color/Dark_Gray"
+        android:layout_width="match_parent"
+         android:layout_weight="0.33"
+        android:layout_height="match_parent"
+        android:textColor="@color/white"
+        style="@style/txt_medium"
+        android:text="Hall"
+       />
+    </LinearLayout>
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#456489"
+        android:orientation="vertical">
+</LinearLayout>
+    <ListView
+        android:id="@+id/lvSearchHall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff" >
+    </ListView>
+    
+ </LinearLayout>
+   <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="0dp"
+     android:layout_weight=".12" >
+    <FrameLayout
+        android:id="@+id/AdsFrameLayout"
+        style="@style/add_banner_width_height"
+        android:layout_gravity="bottom"
+         android:background="@anim/banner_animator">
+        </FrameLayout>
+  </LinearLayout>
+</LinearLayout>

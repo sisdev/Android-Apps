@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1.0"
+    android:orientation="vertical"
+    android:layout_gravity="center" 
+    android:background="@drawable/bg">
+    
+   <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:weightSum="1"
+        android:layout_weight=".24">
+    </LinearLayout>
+	<LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.22"
+        android:weightSum="1"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" 
+        android:orientation="horizontal" >
+        
+        <ImageButton
+        	android:id="@+id/btnUtilitiesFb"
+        	android:layout_width="0dp"
+        	android:layout_height="match_parent"
+        	android:layout_weight="0.5"
+        	android:src="@drawable/facebook_btn_selector"
+        	android:scaleType="fitCenter"
+        	android:background="@color/transparent"        
+        />
+
+    	<ImageButton
+        	android:id="@+id/btnUtilitiesTwitter"
+        	android:layout_width="0dp"
+        	android:layout_height="match_parent"
+        	android:layout_weight="0.5"
+        	android:src="@drawable/twitter_btn_selector"
+        	android:scaleType="fitCenter"
+        	android:background="@color/transparent"
+        />
+    </LinearLayout>
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:weightSum="1"
+        android:layout_weight=".04">
+    </LinearLayout>
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"        
+        android:weightSum="1"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_weight="0.22"
+        android:orientation="horizontal">
+    
+        <ImageButton
+        	android:id="@+id/btnUtilitiesyouTube"
+        	android:layout_width="0dp"
+        	android:layout_height="match_parent"
+        	android:layout_weight="0.5"
+        	android:src="@drawable/youtube_btn_selector"
+        	android:scaleType="fitCenter"
+        	android:background="@color/transparent"        
+        />
+        
+        <ImageButton
+        	android:id="@+id/btnUtilitiesPinterest"
+        	android:layout_width="0dp"
+        	android:layout_height="match_parent"
+        	android:layout_weight="0.5"
+        	android:src="@drawable/pinterest_btn_slector"
+        	android:scaleType="fitCenter"
+        	android:background="@color/transparent"       
+        />
+    </LinearLayout>
+  <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:weightSum="1"
+        android:layout_weight=".16">
+    </LinearLayout>
+         <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="0dp"
+     android:layout_weight=".12" >
+    <FrameLayout
+        android:id="@+id/AdsFrameLayout"
+        style="@style/add_banner_width_height"
+        android:layout_gravity="bottom|center_horizontal"
+         android:background="@anim/banner_animator">
+        </FrameLayout>
+</LinearLayout>
+</LinearLayout>

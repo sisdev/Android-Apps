@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android-Apps\HelloJNI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Android-Apps\HelloJNI\app\build\intermediates\pre-dexed\arm7\debug\com.android.support-support-v4-23.4.0_602a80c3f69bf0759a633c4a4f735e0f6a0819a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android-Apps\HelloJNI\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Android-Apps\HelloJNI\app\build\intermediates\pre-dexed\arm7\debug\com.android.support-support-vector-drawable-23.4.0_b1727cba43a9a2d27d9cebbc2065f12294687d79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android-Apps\HelloJNI\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Android-Apps\HelloJNI\app\build\intermediates\pre-dexed\arm7\debug\com.android.support-animated-vector-drawable-23.4.0_9a19e204e6607132408051eaeb11bf83dde04bdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android-Apps\HelloJNI\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Android-Apps\HelloJNI\app\build\intermediates\pre-dexed\arm7\debug\com.android.support-appcompat-v7-23.4.0_7eed995e07fa6f5a06052675ae4e5a13e8f8f8c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android-Apps\HelloJNI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Android-Apps\HelloJNI\app\build\intermediates\pre-dexed\arm7\debug\internal_impl-23.4.0_1937bf61be502bf6ee1a8f159ee43c65f69b0bab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Android-Apps\HelloJNI\app\build\intermediates\pre-dexed\arm7\debug\support-annotations-23.4.0_522c72ae3cff0b488723c27c59d1adc5cf87d2f6.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheckedTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/text1"
+    style="spinnerStyle"
+    android:singleLine="true"
+    android:gravity="center_vertical"
+    android:background="@color/white"
+    android:layout_width="fill_parent"
+    android:textStyle="bold"
+    android:textColor="@color/black"
+    android:layout_height="?android:attr/listPreferredItemHeight"
+    android:ellipsize="marquee" />
+<!-- android:id="@android:id/text1" -->
+<!--     style="?android:attr/spinnerDropDownItemStyle" -->
+
+<!-- <resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+        <item name="android:spinnerStyle">@style/spinnerStyle</item>
+    </style>
+    <style name="spinnerStyle">
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/spinner_background_holo_light</item>
+    </style>
+</resources> -->

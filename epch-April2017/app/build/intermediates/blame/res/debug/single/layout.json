@@ -1,0 +1,610 @@
+[
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_fragment.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\home_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\single_list_item.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\single_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\day_three_date.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\day_three_date.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\places_list.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\places_list.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\venue_map_with_location.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\venue_map_with_location.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\first_activity.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\first_activity.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\location_based_popup_activity_main.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\location_based_popup_activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\from.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\from.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gcm_reminder.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\gcm_reminder.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\favorites.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\favorites.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_pack_plus.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\about_pack_plus.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\linked_in.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\linked_in.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\conclave_second_fragment.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\conclave_second_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\day_second_date.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\day_second_date.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\conclave_first_fragment.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\conclave_first_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photoshoot_notes.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\photoshoot_notes.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\promotion_plan.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\promotion_plan.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\childrow.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\childrow.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\day_five_date.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\day_five_date.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_fragment.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\search_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\facilities_fragment.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\facilities_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\map.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_fragment.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\video_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\places.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\places.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exhibitors.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\exhibitors.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exhibitors_details_modified.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\exhibitors_details_modified.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_fragment_second.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\home_fragment_second.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\event_first_day.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\event_first_day.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\panel_listview_item.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\panel_listview_item.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help_desk.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\help_desk.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\disclaimer_fragment.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\disclaimer_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\capture1.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\capture1.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\routes_relative_layout.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\routes_relative_layout.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\event_day_five.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\event_day_five.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\venue_with_route.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\venue_with_route.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_window.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\popup_window.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\how_to_reach_root.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\how_to_reach_root.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\floor_plan_webview_fragment.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\floor_plan_webview_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_fragment_first.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\home_fragment_first.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\day_one_date.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\day_one_date.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splashscreen.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\splashscreen.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\events_details.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\events_details.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\visitor_registration.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\visitor_registration.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\how_to_reach_gmap.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\how_to_reach_gmap.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\capture.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layouts_map.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\layouts_map.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_pager.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\home_pager.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\multi_line_spinner_for_route.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\multi_line_spinner_for_route.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\how_to_reach_home.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\how_to_reach_home.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\print_and_packing.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\print_and_packing.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\venue_map_image_view_fragment.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\venue_map_image_view_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main1.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\activity_main1.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_list.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\product_list.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\linked_in_dialog.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\linked_in_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\event_day_second.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\event_day_second.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\autocomplete_dropdown_list_item.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\autocomplete_dropdown_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\conclave_list_item.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\conclave_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_fragment1.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\video_fragment1.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\images_fragment.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\images_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\news_fragment.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\news_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_window_places.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\popup_window_places.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\send_mail_fragment.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\send_mail_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contacts.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\contacts.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\event_day_three.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\event_day_three.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_fragment_hall.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\search_fragment_hall.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_album_name.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\select_album_name.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_fragment_products.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\search_fragment_products.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\floor_plan_fragment.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\floor_plan_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\useful_info.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\useful_info.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\productlist1.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\productlist1.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photoshoot_folder_details.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\photoshoot_folder_details.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_delhifair.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\home_delhifair.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_preview_social.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\camera_preview_social.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\packplus_report_fragment.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\packplus_report_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\event_scheduler.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\event_scheduler.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\places_list_fragment.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\places_list_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_loading_video.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\view_loading_video.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_spinner_dropdown.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\custom_spinner_dropdown.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\to_from_list.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\to_from_list.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\venue_map_layout.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\venue_map_layout.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feedback_fragment.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\feedback_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_bar.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\action_bar.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_fragment_exhibitors.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\search_fragment_exhibitors.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_registration.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\user_registration.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\album.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\album.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\day_four_date.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\day_four_date.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\seminar_calendar_web_view.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\seminar_calendar_web_view.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feedback_user_registration_fragment.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\feedback_user_registration_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\share_image_with_social_media.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\share_image_with_social_media.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\useful_info_delhifair.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\useful_info_delhifair.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\space_request_fragment.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\space_request_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exb_details_listview_item.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\exb_details_listview_item.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_result_item.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\search_result_item.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_registration_fragment.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\main_registration_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_result.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\search_result.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\web_open.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\web_open.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_list_item.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\about_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\decoder.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\decoder.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\space_application_fragment.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\space_application_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exb_list_item.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\exb_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\event_day_four.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\event_day_four.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\encoder.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\encoder.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splashsecond.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\splashsecond.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\questionnaires.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\questionnaires.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\utilities.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\layout\\utilities.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    }
+]

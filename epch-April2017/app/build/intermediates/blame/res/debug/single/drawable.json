@@ -1,0 +1,622 @@
+[
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounder_transparent_bg.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\rounder_transparent_bg.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounder_button_click.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\rounder_button_click.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner4.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\banner4.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white_border_shape.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\white_border_shape.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_ihgf_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\about_ihgf_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jewellery_expo_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\jewellery_expo_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_sn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\home_btn_sn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_nearby_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\home_btn_nearby_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exhibitors_name_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\exhibitors_name_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_box_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\check_box_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\locate_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\locate_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_hover_shape.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\list_item_hover_shape.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button_white.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\rounded_button_white.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\twitter_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\upload_file_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\upload_file_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\email_icon_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\email_icon_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\semi_rounded_button.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\semi_rounded_button.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_delhifair_usefulinfo_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\home_btn_delhifair_usefulinfo_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_button_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\radio_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_view_gradient.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\list_view_gradient.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\autumn_fair_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\autumn_fair_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\main_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\to_pin.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\to_pin.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cancelicon.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\cancelicon.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner2.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\banner2.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_delhifair_venue_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\home_btn_delhifair_venue_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spring_fair_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\spring_fair_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_delhifair_about_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\home_btn_delhifair_about_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_btn_hover_shape.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\main_btn_hover_shape.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\free_shuttle_ihgf_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\free_shuttle_ihgf_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\planner_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\planner_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner1.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\banner1.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\facebook_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_button_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\common_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\devider.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\devider.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fairfacility_ihgf_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\fairfacility_ihgf_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_button_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\search_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_seperator_line_shape.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\text_seperator_line_shape.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_button_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\blue_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panel_item.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\panel_item.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_gallery_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\product_gallery_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_button_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\delete_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_news_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\home_btn_news_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\helpdesk_no_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\helpdesk_no_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_gradient_click.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\rounded_gradient_click.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exhibitor_name_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\exhibitor_name_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mobile_icon_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\mobile_icon_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nearby_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\nearby_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\conclave_item_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\conclave_item_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\list_item_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_conclave_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\home_btn_conclave_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_delhifair_exhibitor_list_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\home_btn_delhifair_exhibitor_list_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\from_pin.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\from_pin.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pinterest_btn_slector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\pinterest_btn_slector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\venue_map_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\venue_map_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\info_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\empanel_hotels_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\empanel_hotels_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qrcode_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\qrcode_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_category_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\product_category_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fb_like_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\fb_like_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\homeexpo_fair_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\homeexpo_fair_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stall_no_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\stall_no_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\edit_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_ifjas_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\about_ifjas_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\youtube_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\youtube_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_exhibitor_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\home_btn_exhibitor_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_icon_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\search_icon_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\products_name_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\products_name_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_button_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\camera_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comman_button_ihgf_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\comman_button_ihgf_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_green.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\rounded_green.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\to_from_border_shape_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\to_from_border_shape_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qr_to_from_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\qr_to_from_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\free_shuttle_info_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\free_shuttle_info_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black_border_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\black_border_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_delhifair_contactus_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\home_btn_delhifair_contactus_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\web_icon_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\web_icon_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_venue_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\home_btn_venue_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feedback_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\feedback_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\city_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\city_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\useful_info_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\useful_info_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panel_item_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\panel_item_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_text_color_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\btn_text_color_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seminar_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\seminar_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\social_media_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\social_media_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help_desk_number_ihgf_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\help_desk_number_ihgf_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exhibitor_list_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\exhibitor_list_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_delhifair_registration_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\home_btn_delhifair_registration_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\visitor_edit_text_bg.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\visitor_edit_text_bg.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\landline_icon_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\landline_icon_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_selection_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\product_selection_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_note_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\product_note_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exhibitor_marker.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\exhibitor_marker.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_app_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\about_app_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location_marker_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\location_marker_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_screen_button_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\home_screen_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black_border_shape.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\black_border_shape.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fair_facilities_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\fair_facilities_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\questionnaire_bg_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\questionnaire_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratings_stars.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\ratings_stars.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\empaneled_hotel_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\empaneled_hotel_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner3.png",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\banner3.png"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\schedule_button_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\schedule_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_semi_transparent_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\btn_bg_semi_transparent_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\question_bg_shape.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\question_bg_shape.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favorite_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\favorite_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_image_capture.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\add_image_capture.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panel_item_hover_shape.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\panel_item_hover_shape.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_btn_selector.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\layout_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Android-Apps\\epch-April2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounder_button_white.xml",
+        "source": "D:\\Android-Apps\\epch-April2017\\app\\src\\main\\res\\drawable\\rounder_button_white.xml"
+    }
+]

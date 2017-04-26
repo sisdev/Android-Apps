@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:weightSum="1.0"
+    android:orientation="vertical" >
+
+<!--     <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".44"
+        android:weightSum="1"
+        android:orientation="vertical"
+        android:background="#fff" >
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:layout_weight=".11"
+         android:layout_gravity="center"
+         android:gravity="center"
+         android:text="Name"
+         style="@style/txtStyle" />
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:layout_weight=".07"
+         android:orientation="horizontal" >
+         <TextView
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight=".4"
+             android:text="Address" />
+          <TextView
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight=".6"
+             android:text="AAA" />
+     </LinearLayout>
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:layout_weight=".07"
+         android:orientation="horizontal" >
+         <TextView
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight=".4"
+             android:text="City" />
+          <TextView
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight=".6"
+             android:text="AAA" />
+     </LinearLayout>
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:layout_weight=".07"
+         android:orientation="horizontal" >
+         <TextView
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight=".4"
+             android:text="State" />
+          <TextView
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight=".6"
+             android:text="AAA" />
+     </LinearLayout>
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:layout_weight=".07"
+         android:orientation="horizontal" >
+         <TextView
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight=".4"
+             android:text="Mobile No." />
+          <TextView
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight=".6"
+             android:text="AAA" />
+     </LinearLayout>
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:layout_weight=".07"
+         android:orientation="horizontal" >
+         <TextView
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight=".4"
+             android:text="Landline No" />
+          <TextView
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight=".6"
+             android:text="AAA" />
+     </LinearLayout>
+      <TextView
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:layout_weight=".11"
+         android:layout_gravity="center"
+         android:gravity="center"
+         android:text="Name"
+         style="@style/txtStyle" />
+       <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:layout_weight=".07"
+         android:orientation="horizontal" >
+         <TextView
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight=".4"
+             android:text="Email" />
+          <TextView
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight=".6"
+             android:text="AAA" />
+     </LinearLayout>
+      <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:layout_weight=".07"
+         android:orientation="horizontal" >
+         <TextView
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight=".4"
+             android:text="Website" />
+          <TextView
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight=".6"
+             android:text="AAA" />
+     </LinearLayout>
+      <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:layout_weight=".05"
+         android:orientation="horizontal" >
+         <TextView
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight=".4"
+             android:text="Stand No" />
+          <TextView
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight=".6"
+             android:text="AAA" />
+     </LinearLayout>
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:layout_weight=".07"
+         android:orientation="horizontal" >
+         <TextView
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight=".4"
+             android:text="Hall No" />
+          <TextView
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight=".6"
+             android:text="AAA" />
+     </LinearLayout>
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:layout_weight=".07"
+         android:orientation="horizontal" >
+         <TextView
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight=".4"
+             android:text="Mart No" />
+          <TextView
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight=".6"
+             android:text="AAA" />
+     </LinearLayout>
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:layout_weight=".07"
+         android:orientation="horizontal" >
+         <TextView
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight=".4"
+             android:text="Floor" />
+          <TextView
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight=".6"
+             android:text="AAA" />
+     </LinearLayout>
+           
+    </LinearLayout>
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".44"
+        android:weightSum="1"
+        android:orientation="vertical"
+        android:background="#fff" >        
+    </LinearLayout>
+ -->
+    
+    
+    <LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="0dp"
+	    android:orientation="vertical"
+	    android:layout_margin="10dp" 
+	    android:layout_weight="0.88"
+	   >
+   
+   <ScrollView 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fadingEdge="none">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical" >
+       <LinearLayout 
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content">
+       <TextView
+           android:id="@+id/tvExbDName"
+           style="@style/txtStyle"
+           android:layout_width="0dp"
+           android:layout_height="wrap_content"           
+           android:gravity="center|left"
+           android:layout_gravity="center_vertical"
+           android:paddingLeft="30dp"
+           android:paddingRight="5dp"
+           android:text="Exhibotirs"
+           android:textColor="@color/black" 
+           android:layout_weight="0.8"/>
+       <!-- android:textColor="@color/Dark_Gray" -->
+       <ImageButton 
+           android:layout_width="0dp"
+           android:layout_height="50dp" 
+           android:id="@+id/bookmark"
+           android:scaleType="fitCenter"
+           android:layout_weight="0.2"
+           android:src="@drawable/book_mark_icon"
+           android:background="@color/transparent"/>
+       </LinearLayout>
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="1dp"
+           android:layout_marginLeft="30dp"
+           android:layout_marginRight="0dp"
+           android:background="@drawable/text_seperator_line_shape" /> 
+       <TextView
+           android:id="@+id/tvExbDAddress1"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"       
+           android:layout_marginTop="10dp" 
+            android:paddingLeft="30dp"
+           android:paddingRight="30dp"        
+           android:gravity="center|left"
+           android:text="Adress: "
+	       android:textColor="@color/black"	      
+	       style="@style/txtSizeBellowNarmal"   />
+       <LinearLayout 
+           android:id="@+id/llMobileCall"
+           android:orientation="horizontal"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:minHeight="25dp"
+           android:layout_marginTop="2dp"        
+           android:gravity="center_vertical"
+           android:weightSum="1.0"
+           android:background="@drawable/btn_bg_semi_transparent_selector" >
+       <TextView
+           android:id="@+id/tvMobileNo"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_weight=".2"
+           android:paddingLeft="30dp"
+           android:paddingRight="10dp"
+           android:gravity="center|left"
+           android:text="Mob"
+           android:textColor="@color/black"
+           style="@style/txtSizeBellowNarmal" />
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="25dp"
+           android:layout_weight=".8"
+           android:layout_marginLeft="15dp"
+           android:layout_marginRight="15dp"
+           android:paddingLeft="20dp"
+           android:paddingRight="20dp"
+           android:gravity="center"
+           android:background="@drawable/mobile_icon_selector"
+            />
+       
+       </LinearLayout>
+       <LinearLayout 
+           android:id="@+id/llLandlineCall"
+           android:orientation="horizontal"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:minHeight="25dp"  
+           android:layout_marginTop="2dp"         
+           android:gravity="center_vertical"
+           android:weightSum="1.0"
+           android:background="@drawable/btn_bg_semi_transparent_selector" >
+       <TextView
+           android:id="@+id/tvLandlineContact"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_weight=".2"
+           android:paddingLeft="30dp"
+           android:paddingRight="10dp"
+           android:gravity="center|left"
+           android:text="Landline"
+           android:textColor="@color/black"
+           style="@style/txtSizeBellowNarmal" />
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="25dp"
+           android:layout_weight=".8"
+           android:layout_marginLeft="15dp"
+           android:layout_marginRight="15dp"
+           android:paddingLeft="20dp"
+           android:paddingRight="20dp"
+           android:gravity="center"
+           android:background="@drawable/landline_icon_selector"
+            />       
+        
+       </LinearLayout>
+       
+       <TextView
+           android:id="@+id/tvContactPerson"
+           android:layout_width="match_parent"
+           android:layout_height="45dp" 
+           android:paddingLeft="30dp"
+           android:paddingRight="30dp"       
+           android:gravity="center|left"
+           android:text="Contact Person Name"
+            android:textColor="@color/black"
+            style="@style/txtStyle" />
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="1dp"
+           android:layout_marginLeft="30dp"
+           android:layout_marginRight="0dp"
+           android:background="@drawable/text_seperator_line_shape" />
+       <!-- <TextView
+           android:id="@+id/tvEmail"
+           android:layout_width="match_parent"
+           android:layout_height="35dp"
+           
+           android:text="Email : "
+           android:gravity="center"
+           android:layout_weight="0.15"
+           android:layout_marginRight="10dp"
+	       android:textColor="@color/white"
+	       android:paddingLeft="5dp"
+           android:paddingRight="5dp"
+	       style="@style/txtSizeBellowNarmal"   /> -->
+	   <LinearLayout 
+           android:id="@+id/llEmailLuncher"
+           android:orientation="horizontal"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content" 
+           android:layout_marginTop="2dp"       
+           android:gravity="center_vertical"
+           android:minHeight="25dp"
+           android:weightSum="1.0"
+           android:background="@drawable/btn_bg_semi_transparent_selector" >
+       <TextView
+           android:id="@+id/tvEmailId"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_weight=".2"
+           android:paddingLeft="30dp"
+           android:paddingRight="10dp"
+           android:gravity="center|left"
+           android:text="Mob"
+           android:textColor="@color/black"
+           style="@style/txtSizeBellowNarmal" />
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="25dp"
+           android:layout_weight=".8"
+           android:layout_marginLeft="15dp"
+           android:layout_marginRight="15dp"
+           android:paddingLeft="20dp"
+           android:paddingRight="20dp"
+           android:gravity="center"
+           android:background="@drawable/email_icon_selector"
+            />
+       
+       </LinearLayout>
+       <LinearLayout 
+           android:id="@+id/llWebsitLuncher"
+           android:orientation="horizontal"
+           android:layout_width="match_parent"
+           android:layout_height="25dp"
+           android:layout_marginTop="2dp"        
+           android:gravity="center_vertical"
+           android:weightSum="1.0"
+           android:background="@drawable/btn_bg_semi_transparent_selector">
+       <TextView
+           android:id="@+id/tvWebsit"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:layout_weight=".2"
+           android:paddingLeft="30dp"
+           android:paddingRight="10dp"
+           android:gravity="center|left"
+           android:text="web"
+           android:textColor="@color/black"
+           style="@style/txtSizeBellowNarmal" />
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="25dp"
+           android:layout_weight=".8"
+           android:layout_marginLeft="15dp"
+           android:layout_marginRight="15dp"
+           android:paddingLeft="20dp"
+           android:paddingRight="20dp"
+           android:gravity="center"
+           android:background="@drawable/web_icon_selector"
+            />
+    
+       </LinearLayout>
+       <!-- <TextView
+           android:id="@+id/tvEmail_Websit"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_marginTop="10dp"
+           android:text="Email and Website : "
+           android:gravity="center"
+           android:layout_weight="0.15"
+	       android:textColor="@color/white"
+	       android:layout_marginLeft="10dp"
+           android:layout_marginRight="10dp"
+	       style="@style/txtSizeBellowNarmal"   /> -->
+		<LinearLayout 
+           android:id="@+id/llLocationLuncher"
+           android:orientation="horizontal"
+           android:layout_width="match_parent"
+           android:layout_height="50dp"           
+           android:gravity="center_vertical"
+           android:weightSum="1.0"
+           android:background="@drawable/btn_bg_semi_transparent_selector">
+
+           <TextView
+           android:id="@+id/tvType"
+           android:layout_width="match_parent"
+           android:layout_height="50dp"
+           
+           android:gravity="center_vertical"
+           android:text="Hall: "
+           android:layout_marginRight="10dp"
+	       android:textColor="@color/black"
+	       android:paddingLeft="30dp"
+           android:paddingRight="10dp"
+           android:layout_weight="0.15"
+               
+	       style="@style/txtSizeBellowNarmal"   />
+    
+      <TextView
+           android:id="@+id/tvLocationSymble"
+           android:layout_width="match_parent"
+           android:layout_height="35dp"
+           android:background="@drawable/location_marker_selector"
+           android:gravity="center_vertical"
+           android:layout_weight="0.85"
+           android:text=""
+           android:layout_marginRight="10dp"
+	       android:textColor="@color/Gray"
+	       android:paddingLeft="5dp"
+           android:paddingRight="5dp"
+	       style="@style/txtSizeBellowNarmal"   />
+     
+       
+</LinearLayout>
+     
+
+       <!-- <TextView
+           android:layout_width="match_parent"
+           android:layout_height="1dp"
+           android:layout_marginLeft="10dp"
+           android:layout_marginRight="10dp"
+           android:background="@color/listdivider" /> -->
+       
+       
+
+  <!-- <TextView
+           android:id="@+id/tvExbAddr"
+           android:layout_width="match_parent"
+           android:layout_height="45dp"
+           android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+           
+           android:gravity="center"
+           android:text="@string/address"
+            android:textColor="@color/white"
+            style="@style/txtStyle" /> -->
+
+       <!-- <TextView
+           android:id="@+id/tvExbDAddress1"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"       
+           
+           
+           android:gravity="center_vertical"
+           android:text="Adress: "
+           android:layout_marginLeft="10dp"
+           android:layout_marginRight="10dp"
+	       android:textColor="@color/packplus_blue"
+	       android:paddingLeft="5dp"
+           android:paddingRight="5dp"
+	       style="@style/txtSizeBellowNarmal"   /> -->
+        <!-- <TextView
+           android:layout_width="match_parent"
+           android:layout_height="1dp"
+           android:layout_marginLeft="10dp"
+           android:layout_marginRight="10dp"
+           android:background="@color/listdivider" /> -->
+
+ <!-- <TextView
+           android:layout_width="match_parent"
+           android:layout_height="1dp"
+           android:layout_marginLeft="10dp"
+           android:layout_marginRight="10dp"
+           android:background="@color/listdivider" /> -->
+       
+ <!-- <LinearLayout 
+           android:id="@+id/llWebsite"
+           android:orientation="horizontal"
+           android:layout_width="match_parent"
+           android:layout_height="50dp"
+           android:layout_marginLeft="10dp"
+           android:layout_marginRight="10dp"
+           
+           android:gravity="center_vertical"
+           android:weightSum="1.0">
+       <TextView
+           android:id="@+id/tvWebsit"
+           android:layout_width="match_parent"
+           android:layout_height="35dp"
+           
+           android:text="Website : "
+           android:gravity="center_vertical"
+           android:layout_weight="0.15"
+           android:layout_marginRight="10dp"
+	       android:textColor="@color/packplus_blue"
+	       android:paddingLeft="5dp"
+           android:paddingRight="5dp"
+	       style="@style/txtSizeBellowNarmal"   />
+       
+       
+       
+       <TextView
+           android:id="@+id/tvClickSymble2"
+           android:layout_width="match_parent"
+           android:layout_height="35dp"
+           android:background="@drawable/web"
+           android:gravity="center_vertical"
+           android:layout_weight="0.85"
+           android:text=""
+           android:layout_marginRight="10dp"
+	       android:textColor="@color/packplus_blue"
+	       android:paddingLeft="5dp"
+           android:paddingRight="5dp"
+	       style="@style/txtSizeBellowNarmal"   />
+       
+    </LinearLayout> -->  
+       <!-- <TextView
+           android:layout_width="match_parent"
+           android:layout_height="1dp"
+           android:layout_marginLeft="10dp"
+           android:layout_marginRight="10dp"
+           android:background="@color/listdivider" />
+       
+      <TextView
+           android:id="@+id/tvExbCont"
+           android:layout_width="match_parent"
+           android:layout_height="45dp"
+           android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+          
+           android:gravity="center"
+           android:text="Description "
+           android:textColor="@color/white"
+            style="@style/txtStyle" />
+
+       <TextView
+           android:id="@+id/tvDescription"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           
+           android:gravity="center_vertical"
+           android:text=""
+            android:layout_marginLeft="10dp"
+           android:layout_marginRight="10dp"
+	       android:textColor="@color/packplus_blue"
+	       android:paddingLeft="5dp"
+           android:paddingRight="5dp"
+	       style="@style/txtSizeBellowNarmal"   />
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="1dp"
+           android:layout_marginLeft="10dp"
+           android:layout_marginRight="10dp"
+           android:background="@color/listdivider" />  --> 
+           
+       
+       
+       
+       product list added
+       
+       <LinearLayout 
+           android:id="@+id/llProductList"
+           android:orientation="horizontal"
+           android:layout_width="match_parent"
+           android:layout_height="50dp"           
+           android:gravity="center_vertical"
+           android:weightSum="1.0"
+           android:clickable="false">
+
+           <TextView
+           android:id="@+id/tvExbContPro"
+           android:layout_width="match_parent"
+           android:layout_height="45dp"
+           android:layout_weight=".2"
+           android:paddingLeft="30dp"
+           android:paddingRight="10dp"
+           android:background="@color/transparent"
+           android:gravity="center|left"
+           android:text="PRODUCTS "
+           android:textColor="@color/black"
+           style="@style/txtStyle"   />
+    
+      <TextView
+           android:id="@+id/tvGalleryIcon"
+           android:layout_width="match_parent"
+           android:layout_height="45dp"           
+           android:gravity="center_vertical"
+           android:layout_weight="0.8"
+	       android:paddingLeft="10dp"
+           android:paddingRight="10dp"
+           android:background="@drawable/product_gallery_btn_selector"
+           
+	        />
+     
+       
+</LinearLayout>
+       <!-- <TextView
+           android:id="@+id/tvExbContPro"
+           android:layout_width="match_parent"
+           android:layout_height="45dp"
+           android:layout_marginLeft="10dp"
+           android:layout_marginRight="10dp"
+           android:background="@color/transparent"
+           android:gravity="center"
+           android:text="PRODUCTS "
+           android:textColor="@color/white"
+           style="@style/txtStyle" /> -->
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="1dp"
+           android:layout_marginLeft="30dp"
+           android:layout_marginRight="0dp"
+           android:background="@drawable/text_seperator_line_shape" /> 
+
+       <TextView
+           android:id="@+id/tvProducts"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:paddingLeft="30dp"
+           android:layout_marginTop="5dp"
+           android:layout_marginBottom="5dp"
+           android:paddingRight="10dp"
+           android:gravity="center|left|top"
+           
+	       android:textColor="@color/black"
+	       style="@style/txtSizeBellowNarmal"   />
+        <TextView
+           android:layout_width="match_parent"
+           android:layout_height="1dp"
+           android:layout_marginLeft="30dp"
+           android:layout_marginRight="0dp"
+           android:background="@drawable/text_seperator_line_shape" /> 
+       
+        <Button android:text="Add Contacts"
+            android:id="@+id/btnAddContacts"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:paddingLeft="15dp"
+           android:layout_marginTop="5dp"
+           android:layout_marginBottom="5dp"
+           android:paddingRight="10dp"
+           
+           android:textColor="@color/black"
+           android:background="@drawable/common_button_selector"
+           android:gravity="center"
+           android:layout_gravity="center"/>
+           
+       </LinearLayout>
+       
+   </ScrollView>
+   </LinearLayout>  
+  <!--  <Button
+            android:id="@+id/btnEmailLuncher"
+            android:layout_margin="5dp"
+            android:layout_width="150dp"
+            android:layout_height="0dp"
+            android:text="Send Email"
+            android:gravity="center"
+            android:layout_weight="0.12"
+            android:textColor="@color/white"
+            android:background="@drawable/main_btn_selector"
+            android:layout_gravity="center"
+        /> -->
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="0dp"
+      android:layout_weight=".12" >
+  <FrameLayout
+        android:id="@+id/AdsFrameLayout"
+        style="@style/add_banner_width_height"
+        android:layout_gravity="bottom|center_horizontal"
+        android:background="@anim/banner_animator"
+        >
+        </FrameLayout>
+  </LinearLayout>
+</LinearLayout>

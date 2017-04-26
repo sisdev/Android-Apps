@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#55ff00"
+        android:gravity="center"
+        android:text="Image"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <ImageView
+        android:id="@+id/sharePhoto"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/appicon" />
+
+    <EditText
+        android:id="@+id/shareCaption"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Caption" >
+
+        
+    </EditText>
+
+    
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="horizontal"
+        android:layout_marginTop="5dp">
+
+        <Button
+            android:id="@+id/shareImgSave"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Save to SDCard"
+            android:gravity="center" 
+            android:layout_gravity="center"/>
+
+       <Button
+        android:id="@+id/shareImgWithFb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Share With Facebook" 
+        android:gravity="center"
+        android:layout_gravity="center"/>
+    </LinearLayout>
+
+</LinearLayout>

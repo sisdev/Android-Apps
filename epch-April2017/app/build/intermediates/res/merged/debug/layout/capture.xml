@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Copyright (C) 2008 ZXing authors
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="fill_parent"
+             android:layout_height="fill_parent">
+
+  <SurfaceView android:id="@+id/preview_view"
+               android:layout_width="fill_parent"
+               android:layout_height="fill_parent">
+  </SurfaceView>
+
+  <com.assusoft.efair.qrcode.ViewfinderView
+      android:id="@+id/viewfinder_view"
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent"
+      android:background="@color/transparent">
+  </com.assusoft.efair.qrcode.ViewfinderView>
+
+  
+ <LinearLayout 
+               android:id="@+id/result_view"
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@color/result_view"
+                android:gravity="center"
+                android:padding="4dip" 
+                android:weightSum="1.0">
+<LinearLayout android:id="@+id/result_v"
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/result_view"
+                android:gravity="center"
+                android:padding="4dip" 
+                android:layout_weight=".20">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="207dp"
+        android:gravity="right|center_vertical"
+        android:orientation="vertical" >
+
+      <ImageView android:id="@+id/barcode_image_view"
+                 android:layout_width="160dip"
+                 android:layout_height="wrap_content"
+                 android:maxWidth="160dip"
+                 android:maxHeight="160dip"
+                 android:layout_marginBottom="4dip"
+                 android:adjustViewBounds="true"
+                 android:scaleType="centerInside"
+                 android:contentDescription="@string/barcode_image">
+      </ImageView>
+
+      <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView android:id="@+id/format_text_view_label"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="@string/msg_default_format"
+                  android:textColor="@color/white"
+                  android:textStyle="bold"
+                  android:textSize="14sp"
+                  android:paddingRight="4dip">
+                  <!-- android:textColor="@color/Dark_Gray" -->
+        </TextView>
+        <!-- 
+                  android:textColor="@color/result_minor_text"  changed -->
+        <TextView android:id="@+id/format_text_view"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:textColor="@color/result_minor_text"
+                  android:textSize="14sp">
+        </TextView>
+      </LinearLayout>
+
+      <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView android:id="@+id/type_text_view_label"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="@string/msg_default_type"
+                  android:textColor="@color/result_minor_text"
+                  android:textStyle="bold"
+                  android:textSize="14sp"
+                  android:paddingRight="4dip">
+        </TextView>
+        <TextView android:id="@+id/type_text_view"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:textColor="@color/result_minor_text"
+                  android:textSize="14sp">
+        </TextView>
+      </LinearLayout>
+
+      <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView android:id="@+id/time_text_view_label"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="@string/msg_default_time"
+                  android:textColor="@color/result_minor_text"
+                  android:textStyle="bold"
+                  android:textSize="14sp"
+                  android:paddingRight="4dip">
+        </TextView>
+        <TextView android:id="@+id/time_text_view"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:textColor="@color/result_minor_text"
+                  android:textSize="14sp">
+        </TextView>
+      </LinearLayout>
+        
+      <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView android:id="@+id/meta_text_view_label"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="@string/msg_default_meta"
+                  android:textColor="@color/result_minor_text"
+                  android:textStyle="bold"
+                  android:textSize="14sp"
+                  android:paddingRight="4dip">
+        </TextView>
+        <TextView android:id="@+id/meta_text_view"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:textColor="@color/result_minor_text"
+                  android:textSize="14sp">
+        </TextView>
+      </LinearLayout>
+    
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+      <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView android:id="@+id/contents_text_view"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:textColor="@color/result_text"
+                  android:textColorLink="@color/result_text"
+                  android:textSize="22sp"
+                  android:paddingLeft="12dip"/>
+
+         <TextView
+             android:id="@+id/contents_textview_link"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:clickable="true"
+             android:enabled="false"
+             android:focusableInTouchMode="true"
+             android:paddingLeft="12dip"
+             android:textColor="@color/result_text"
+             android:textColorLink="@color/result_text"
+             android:textSize="22sp" >
+         
+        </TextView>
+      </LinearLayout>
+    </ScrollView>
+        
+  </LinearLayout>
+    <LinearLayout 
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight=".80"
+        android:layout_marginBottom="0dp">
+        <Button 
+            android:id="@+id/btnWebSearch"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:text="Web Search"
+            android:layout_weight="0.33"
+            android:background="@color/event_button_background"
+            android:textColor="@color/list_item_text_color"/>
+         <Button 
+            android:id="@+id/btnShare"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:text="Share via Email"
+            android:layout_weight="0.33"
+            android:layout_marginLeft="2dp"
+            android:background="@color/event_button_background"
+            android:textColor="@color/list_item_text_color"/>
+         <Button 
+            android:id="@+id/btnAdd"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:text="Add Contact"
+            android:layout_marginLeft="2dp"
+            android:layout_weight="0.33"
+            android:background="@color/event_button_background"
+            android:textColor="@color/list_item_text_color"/>
+    </LinearLayout>
+    
+  
+</LinearLayout>
+ <!-- this layout is visible if Qrcode is encoded by same application --> 
+ 
+ 
+ 
+ <LinearLayout 
+               android:id="@+id/result_view1"
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@color/result_view"
+                android:gravity="center"
+                android:padding="4dip" 
+                android:weightSum="1.0">
+<LinearLayout android:id="@+id/result_vi"
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/result_view"
+                android:gravity="center"
+                android:padding="4dip" 
+                android:layout_weight=".20">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="207dp"
+        android:gravity="right|center_vertical"
+        android:orientation="vertical" >
+
+      <ImageView android:id="@+id/barcode_image_view1"
+                 android:layout_width="160dip"
+                 android:layout_height="wrap_content"
+                 android:maxWidth="160dip"
+                 android:maxHeight="160dip"
+                 android:layout_marginBottom="4dip"
+                 android:adjustViewBounds="true"
+                 android:scaleType="centerInside"
+                 android:contentDescription="@string/barcode_image">
+      </ImageView>
+
+      <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView android:id="@+id/format_text_view_label1"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="@string/msg_default_format"
+                  android:textColor="@color/result_minor_text"
+                  android:textStyle="bold"
+                  android:textSize="14sp"
+                  android:paddingRight="4dip">
+        </TextView>
+        <TextView android:id="@+id/format_text_view1"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:textColor="@color/result_minor_text"
+                  android:textSize="14sp">
+        </TextView>
+      </LinearLayout>
+
+      <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView android:id="@+id/type_text_view_label1"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="@string/msg_default_type"
+                  android:textColor="@color/result_minor_text"
+                  android:textStyle="bold"
+                  android:textSize="14sp"
+                  android:paddingRight="4dip">
+        </TextView>
+        <TextView android:id="@+id/type_text_view1"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:textColor="@color/result_minor_text"
+                  android:textSize="14sp">
+        </TextView>
+      </LinearLayout>
+
+      <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView android:id="@+id/time_text_view_label1"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="@string/msg_default_time"
+                  android:textColor="@color/result_minor_text"
+                  android:textStyle="bold"
+                  android:textSize="14sp"
+                  android:paddingRight="4dip">
+        </TextView>
+        <TextView android:id="@+id/time_text_view1"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:textColor="@color/result_minor_text"
+                  android:textSize="14sp">
+        </TextView>
+      </LinearLayout>
+        
+      <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView android:id="@+id/meta_text_view_label1"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="@string/msg_default_meta"
+                  android:textColor="@color/result_minor_text"
+                  android:textStyle="bold"
+                  android:textSize="14sp"
+                  android:paddingRight="4dip">
+        </TextView>
+        <TextView android:id="@+id/meta_text_view1"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:textColor="@color/result_minor_text"
+                  android:textSize="14sp">
+        </TextView>
+      </LinearLayout>
+    
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+      <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView android:id="@+id/contents_text_view1"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:textColor="@color/result_text"
+                  android:textColorLink="@color/result_text"
+                  android:textSize="22sp"
+                  android:paddingLeft="12dip"/>
+
+         <TextView
+             android:id="@+id/contents_textview_link1"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:clickable="true"
+             android:enabled="false"
+             android:focusableInTouchMode="true"
+             android:paddingLeft="12dip"
+             android:textColor="@color/result_text"
+             android:textColorLink="@color/result_text"
+             android:textSize="22sp" >
+         
+        </TextView>
+      </LinearLayout>
+    </ScrollView>
+        
+  </LinearLayout>
+   <LinearLayout 
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight=".80"
+        android:layout_marginBottom="0dp">
+        <Button 
+            android:id="@+id/btnWebSearch1"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:text="Web Search"
+            android:layout_weight="0.50"
+            android:background="@color/event_button_background"
+            android:textColor="@color/list_item_text_color"/>
+         <Button 
+            android:id="@+id/btnShare1"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:text="Share via Email"
+            android:layout_weight="0.50"
+            android:layout_marginLeft="2dp"
+            android:background="@color/event_button_background"
+            android:textColor="@color/list_item_text_color"/>
+         
+    </LinearLayout>
+    
+  
+</LinearLayout>
+  
+
+  <TextView android:id="@+id/status_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:background="@color/transparent"
+            android:text="@string/msg_default_status"
+            android:textColor="@color/status_text"
+            android:textSize="14sp">
+  </TextView>
+
+</FrameLayout>

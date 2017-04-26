@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android-Apps\21_BatchStepSensor\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8c046c952177602c858ed41c8fc492c939bde9aa">
+        <dex dex="D:\Android-Apps\21_BatchStepSensor\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v13-23.0.1_8d9e8c31772914b63fac180a58dbed6bbccce2c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\Android-Apps\21_BatchStepSensor\Application\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_db7a563ea8e91f1377f0716f23cd327059dd69c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android-Apps\21_BatchStepSensor\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Android-Apps\21_BatchStepSensor\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_c0c34f8cedc0769581bd29e368d08b90230bc2f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android-Apps\21_BatchStepSensor\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Android-Apps\21_BatchStepSensor\Application\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_0d54eaa04266bc90aaa3b1d4d8e1f8bdea16d7e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android-Apps\21_BatchStepSensor\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="D:\Android-Apps\21_BatchStepSensor\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.0.1_f3dc54ca20a781a687934e949710544b7e40d3e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android-Apps\21_BatchStepSensor\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Android-Apps\21_BatchStepSensor\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_08c83ca9083759bafd13414ac5e5a8c74271c7a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android-Apps\21_BatchStepSensor\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a0c456a59e1edab84702b48a626705aa1d830ccc">
+        <dex dex="D:\Android-Apps\21_BatchStepSensor\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_861f3c0d2d3aa21f487a365bc27b73a1671f43ed.jar" />
+    </item>
+
+</items>

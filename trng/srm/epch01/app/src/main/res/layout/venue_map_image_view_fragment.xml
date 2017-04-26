@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rootLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical"
+    android:weightSum="1.0" >
+    
+    <LinearLayout 
+        android:id="@+id/llDropdown"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".10"
+        android:orientation="vertical">
+        <Spinner
+		    android:gravity="center_vertical"
+		    android:id="@+id/splayoutmap"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:background="@color/white"
+	        />
+        <!-- android:text="Select Your Place" -->
+
+        <TextView
+            android:id="@+id/tv"
+            android:layout_width="20dp"
+            android:layout_height="15dp"
+            android:layout_gravity="right"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="-30dp"
+            android:background="@drawable/down_arrow" />
+
+<!-- 		<ImageView 
+		    android:id="@+id/img"
+		    android:layout_width="30dp"
+		    android:layout_height="20dp"
+		    android:maxWidth="50dp"
+		    android:maxHeight="35dp"
+		    
+		    android:layout_gravity="right"
+		    android:layout_marginRight="10dp"
+		    android:layout_marginBottom="15dp"
+		    android:background="@drawable/down_arrow" /> -->
+        
+    </LinearLayout>
+
+
+<!--     <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:orientation="vertical" 
+    android:layout_weight="0.10"
+   >
+	   <LinearLayout 
+	       android:layout_width="match_parent"
+	       android:layout_height="50dp"
+	       android:orientation="horizontal"
+	       android:weightSum="1.0">
+		   <TextView 
+		        android:id="@+id/tvDownRow"
+		        android:layout_width="match_parent"
+		        android:text="Select Your Place"
+		        android:gravity="center_vertical"
+		        android:background="@color/white"
+		        android:layout_height="match_parent"
+		        />
+		   <TextView 
+		       android:id="@+id/tv"
+		       android:layout_width="20dp"
+		       android:layout_height="10dp"
+		       android:layout_marginTop="7dp"
+		       android:gravity="center"
+		       android:background="@drawable/down_arrow"
+		       android:layout_marginLeft="-30dp"
+		       />
+	  </LinearLayout>
+	</LinearLayout> -->
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="0dp"
+       android:layout_weight=".78"
+       android:layout_gravity="center_vertical"
+       android:layout_marginTop="2dp"
+       android:orientation="vertical" >
+    <com.assusoft.tmxloader.library.TouchImageView
+        android:id="@+id/webViewVenueMap"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" 
+        />
+    </LinearLayout>
+    <Button
+        android:id="@+id/btnHowtoReach"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:gravity="center"        
+        android:text="How to Reach"
+        android:textSize="22dp"
+        android:textColor="@color/black"
+        android:background="@drawable/common_button_selector" 
+        android:layout_marginBottom="10dp"/>
+    
+    <RelativeLayout 
+        
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="bottom"
+        android:layout_weight="0.12">
+    <FrameLayout
+        android:id="@+id/AdsFrameLayout"
+        style="@style/add_banner_width_height"
+        android:layout_gravity="bottom"
+        android:layout_alignParentBottom="true"
+        android:background="@anim/banner_animator"
+        >
+        </FrameLayout>
+        
+    </RelativeLayout>
+    
+
+</LinearLayout>

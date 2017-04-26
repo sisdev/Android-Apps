@@ -1,0 +1,14 @@
+{
+"OrderDetails":
+ [
+ {"ItemId" : "221", "ItemName": "Vatika Shampoo","ItemQty" : "8", "Status": "Y"},
+ {"ItemId" : "222", "ItemName": "Surf Excel","ItemQty" : "8", "Status": "N"}
+ ]
+};
+
+
+
+
+
+
+

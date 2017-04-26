@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="You can observe what is happening using adb logcat!" />
+
+    <Button
+        android:id="@+id/btest_button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="commandsTestOnClick"
+        android:text="Commands Test" />
+
+    <Button
+        android:id="@+id/btest_button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="toolboxTestOnClick"
+        android:text="Toolbox Tests" />
+
+    <Button
+        android:id="@+id/btest_button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="binariesTestOnClick"
+        android:text="Binaries Test" />
+
+</LinearLayout>

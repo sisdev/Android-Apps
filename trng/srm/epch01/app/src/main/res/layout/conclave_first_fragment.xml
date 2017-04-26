@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     android:weightSum="1.0"
+    android:orientation="vertical" >
+    <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+   >
+    <LinearLayout 
+     android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:weightSum="1.0"
+    android:orientation="horizontal" >
+    <Button 
+        android:id="@+id/btn"
+        android:background="@color/gradient_end_color"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+         android:layout_weight="0.5"
+         android:textColor="@color/white"
+        android:text="@string/first_day_event"
+        style="@style/txt_medium"
+        />
+    <Button 
+        android:id="@+id/btnConclaveSecond"
+        android:background="@color/gradient_start_color"
+        android:layout_width="match_parent"
+         android:layout_weight="0.5"
+        android:layout_height="match_parent"
+        android:textColor="@color/white"
+        style="@style/txt_medium"
+        android:text="@string/second_day_event"
+       />
+    </LinearLayout>
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#456489"
+        android:orientation="vertical">
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="30dp"
+    android:text="@string/day_first"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@color/white"
+    android:layout_marginBottom="1dp"
+    android:textStyle="bold"
+    android:textColor="@color/packplus_blue"
+    />
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:text="@string/conclave_header_first"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@color/white"
+    android:layout_marginBottom="1dp"
+    android:textColor="@color/packplus_blue"
+    android:textStyle="bold"
+    />
+</LinearLayout>
+    <ListView
+        android:id="@+id/lvConclaveFirst"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff" >
+    </ListView>
+    
+ </LinearLayout>
+    <!-- <FrameLayout
+        android:id="@+id/AdsFrameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="bottom"
+        android:layout_weight="0.12"
+        
+        android:layout_marginBottom="-2dp">
+        </FrameLayout> -->
+</LinearLayout>

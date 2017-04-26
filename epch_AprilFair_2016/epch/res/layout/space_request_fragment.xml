@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1.0"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.88"
+        android:weightSum="1.0"
+        android:orientation="vertical" >
+         <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.10"
+        android:gravity="center"
+        android:textColor="@color/Dark_Gray"
+        android:textStyle="bold"
+        style="@style/txt_xlarge"
+        android:text="@string/pack_plus_2015" />
+         <TextView
+        android:id="@+id/tvExhDate"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.14"
+        android:gravity="center"
+        android:textColor="@color/Dark_Gray"
+        style="@style/txt_large"
+        android:text="@string/exhibition_date" />
+         <TextView
+        android:id="@+id/tvVenue"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.14"
+        android:gravity="center"
+        style="@style/txt_large"
+        android:textColor="@color/Dark_Gray"
+        android:text="@string/Venue" />
+         <TextView
+        android:id="@+id/tvSpaceRate"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.1"
+        android:gravity="center"
+        style="@style/txt_large"
+        android:textColor="@color/Dark_Gray"
+        android:text="@string/Space_Rate" />
+         <TextView
+        android:id="@+id/tvShellScheme"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.18"
+        android:gravity="center"
+        style="@style/txt_large"
+        android:textColor="@color/Dark_Gray"
+        android:text="@string/Shell" />
+         <TextView
+        android:id="@+id/tvSpaceOnly"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.18"
+        android:gravity="center"
+        style="@style/txt_large"
+        android:textColor="@color/Dark_Gray"
+        android:text="@string/Space_only" />
+         <TextView
+        android:id="@+id/tvText"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.14"
+        android:gravity="center"
+        style="@style/txt_large"
+        android:textColor="@color/Dark_Gray"
+        android:text="@string/Tax" />
+    </LinearLayout>
+    <Button 
+        android:id="@+id/btnContactToBooking"
+        android:layout_width="200dp"
+         android:layout_weight="0.12"
+        android:layout_height="0dp"
+        android:clickable="true"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/main_btn_selector"
+        android:textColor="@color/Dark_Gray"
+        android:text="Contact for Booking"/>
+ <!-- <FrameLayout
+        android:id="@+id/AdsFrameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="bottom"
+        android:layout_weight="0.12"
+        >
+        </FrameLayout> -->
+</LinearLayout>

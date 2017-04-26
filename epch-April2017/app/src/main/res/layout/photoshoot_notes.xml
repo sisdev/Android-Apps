@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rlPhotoShototNote"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/bg"
+    android:focusableInTouchMode="true">
+    
+   <!--  <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"> -->
+    <LinearLayout 
+        android:id="@+id/llSpinnerTextEdit"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1"
+        android:layout_alignParentTop="true">
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:orientation="horizontal"
+         android:layout_weight=".15"
+         android:layout_marginTop="15dp"
+         android:weightSum="1"
+          >
+     <Spinner
+         android:id="@+id/spinnerProduct"
+         android:layout_width="match_parent"
+         android:layout_height="60dp"
+         android:layout_gravity="center_vertical"
+         android:layout_margin="10dp"
+         android:padding="1dp"
+         android:background="@drawable/rounder_button_white" /> 
+     <TextView
+         android:layout_width="20dp"
+         android:layout_height="20dp"
+         android:layout_gravity="right|center"         
+         android:layout_marginTop="10dp"
+         android:layout_marginRight="15dp"
+         android:layout_marginLeft="-40dp"
+         android:layout_marginBottom="10dp"
+         android:background="@drawable/down_arrow" />
+      </LinearLayout>
+      <LinearLayout
+        	android:layout_height="0dp"
+        	android:layout_width="match_parent"
+        	android:layout_weight=".6"
+        	android:layout_marginTop="20dp">
+
+          <EditText
+              android:id="@+id/editNotes1"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:layout_margin="10dp"
+              android:padding="5dp"
+              android:background="@drawable/rounder_button_white"
+              android:ems="10"
+              android:gravity="left|top"
+              android:hint="Add Your Notes"
+              android:inputType="textCapCharacters|textMultiLine"
+              android:overScrollMode="always" >
+
+              <requestFocus />
+          </EditText>
+        
+    </LinearLayout>
+    <!-- <ScrollView 
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_above="@+id/nll"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="5dp">
+        <EditText android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editNotes1"
+            android:layout_marginTop="20dp"
+            android:hint="Add Your Notes"/>
+        
+    </ScrollView> -->
+
+   <LinearLayout
+       android:id="@+id/nll"
+       android:layout_width="match_parent"
+       android:layout_height="0dp"
+       android:layout_weight=".18"
+       android:layout_marginBottom="10dp"
+       android:layout_below="@+id/llSpinnerTextEdit">
+
+    <Button
+        android:id="@+id/btnSaveNotes"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_weight="0.5"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="1dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="Save"
+        android:textColor="@color/black"
+        android:background="@drawable/common_button_selector" />
+     <Button
+        android:id="@+id/btnEditNotes"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_weight="0.5"
+        android:layout_marginLeft="1dp"
+        android:layout_marginRight="2dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="Edit"
+        android:textColor="@color/black"
+        android:background="@drawable/common_button_selector" />
+     </LinearLayout>
+     </LinearLayout>
+   <!--   </ScrollView> -->
+     <FrameLayout
+        android:id="@+id/AdsFrameLayout"        
+        android:layout_alignParentBottom="true"
+        style="@style/add_banner_width_height"
+        android:background="@anim/banner_animator"
+        >
+        </FrameLayout>
+
+</RelativeLayout>

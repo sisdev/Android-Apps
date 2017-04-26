@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_offline__order_fullfillment"
+    tools:context="casaneeds.zz_notused.Offline_OrderFullfillment">
+
+    <RelativeLayout android:id="@+id/orderreport"
+        android:layout_height="wrap_content"
+        android:background="@drawable/roundborder_pink"
+        android:layout_width="match_parent">
+        <LinearLayout android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:weightSum="4"
+            android:layout_margin="8dp"
+            android:orientation="vertical">
+            <LinearLayout android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:weightSum="2"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:text="Order No."
+                    style="@style/TextViewH"
+                    android:layout_weight="1"
+                    />
+                <TextView
+                    android:id="@+id/order_no"
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:layout_weight="1"
+                    />
+            </LinearLayout >
+
+            <LinearLayout android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:weightSum="2"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:text="Cust. Name"
+                    style="@style/TextViewH"
+                    android:layout_weight="1"/>
+                <TextView
+                    android:id="@+id/cust_name"
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:layout_weight="1"
+                    />
+            </LinearLayout >
+
+            <LinearLayout android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:weightSum="2"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:text="Cust. Area"
+                    style="@style/TextViewH"
+                    android:layout_weight="1"/>
+                <TextView
+                    android:id="@+id/cust_area"
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:layout_weight="1" />
+            </LinearLayout >
+
+            <LinearLayout android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:weightSum="2"
+                android:orientation="horizontal">
+                <TextView
+                    android:id="@+id/edsorder_phone"
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:text="Order Amt."
+                    style="@style/TextViewH"
+                    android:layout_weight="1"/>
+                <TextView
+                    android:id="@+id/order_amt"
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:layout_weight="1"
+                    />
+            </LinearLayout >
+
+
+
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:weightSum="3"
+        android:layout_marginTop="9dp"
+        android:layout_below="@+id/orderreport"
+        android:id="@+id/listviewheading">
+
+        <TextView android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            style="@style/ListViewTitle"
+            android:text="Item Code"/>
+
+        <TextView android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            style="@style/ListViewTitle"
+            android:text="Item Name"/>
+
+        <TextView android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            style="@style/ListViewTitle"
+            android:text="Qty"/>
+
+        <TextView android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            style="@style/ListViewTitle"
+            android:text="Fullfillment"/>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="3dp"
+        android:background="@color/colorPrimary"
+        android:layout_below="@+id/listviewheading"/>
+
+    <ListView
+        android:id="@+id/list_items"
+        android:layout_width="fill_parent"
+        android:layout_height="320dp"
+        android:layout_margin="3dp"
+        android:layout_below="@+id/listviewheading"
+        android:background="#F8F8FF"
+        android:divider="@color/list_divider"
+        android:dividerHeight="2dp"
+        />
+
+    <Button
+        android:layout_width="140dp"
+        android:layout_height="40dp"
+        android:text="Delievery"
+        android:id="@+id/delievery"
+        style="@style/ButtonStyleText"
+        android:background="@drawable/buttonshape_green"
+        android:layout_gravity="right"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/listviewheading"
+        android:layout_alignEnd="@+id/listviewheading" />
+
+
+
+</RelativeLayout>

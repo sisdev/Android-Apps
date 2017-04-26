@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:weightSum="3"
+        android:layout_marginTop="9dp"
+        android:layout_below="@+id/mytasks"
+        android:id="@+id/listviewheading">
+
+        <TextView
+            android:id="@+id/orderno"
+            android:layout_height="wrap_content"
+            android:layout_width="60dp"
+            android:gravity="left"
+            android:layout_marginLeft="25dp"
+            style="@style/ListViewTitle"
+            android:text="Order No."/>
+
+
+        <TextView
+            android:id="@+id/address"
+            android:layout_height="wrap_content"
+            android:layout_width="100dp"
+            style="@style/ListViewTitle"
+            android:paddingLeft="10dp"
+            android:gravity="left"
+            android:text="Uttrakhand"/>
+
+
+        <TextView
+            android:id="@+id/status"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:paddingLeft="6dp"
+            style="@style/ListViewTitle"
+            android:text="      Received   "/>
+
+</LinearLayout>
+
+
+</LinearLayout>

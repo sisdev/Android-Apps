@@ -1,0 +1,156 @@
+<android.support.v7.widget.CardView
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    card_view:cardBackgroundColor="#b32d0A"
+    card_view:cardUseCompatPadding="true"
+    card_view:cardCornerRadius="10dp"
+    android:layout_margin="2dp"
+    card_view:contentPaddingTop="2dp"
+    android:layout_gravity="center"
+    card_view:cardElevation="3dp"
+    >
+ <!--    -->
+     <!-- android:layout_marginBottom="14dp" -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tvitemcode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:paddingLeft="10dp"
+            android:text="ItemCode:\t\t"
+            android:textColor="#ffffff"
+           />
+
+        <TextView
+            android:id="@+id/displaycode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:text="13"
+            android:layout_marginLeft="80dp"
+            android:textColor="#ffffff"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/tvitemcode"
+            android:layout_toEndOf="@+id/tvitemcode" />
+
+        <TextView
+            android:id="@+id/tvitemname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvitemcode"
+            android:paddingTop="3dp"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:paddingLeft="10dp"
+            android:text="Item Name:\t\t"
+            android:textColor="#ffffff"
+            />
+
+        <TextView
+            android:id="@+id/displayname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:text="Potato"
+            android:layout_marginLeft="80dp"
+            android:textColor="#ffffff"
+            android:paddingTop="3dp"
+            android:layout_below="@+id/displaycode"
+            android:layout_toRightOf="@+id/tvitemname"
+            android:layout_toEndOf="@+id/tvitemcode" />
+
+        <TextView
+            android:id="@+id/tvorderqty"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvitemname"
+            android:paddingTop="3dp"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:paddingLeft="10dp"
+            android:text="Order Qty:\t\t"
+            android:textColor="#ffffff"
+            />
+
+        <TextView
+            android:id="@+id/displayorderqty"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:text="50"
+            android:layout_marginLeft="80dp"
+            android:textColor="#ffffff"
+            android:paddingTop="3dp"
+            android:layout_below="@+id/displayname"
+            android:layout_toRightOf="@+id/tvorderqty"
+            android:layout_toEndOf="@+id/tvorderqty" />
+
+        <TextView
+            android:id="@+id/tvfullfillqty"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvorderqty"
+            android:paddingTop="3dp"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:paddingLeft="10dp"
+            android:text="FullFill Qty:\t\t"
+            android:textColor="#ffffff"
+            />
+
+        <EditText
+            android:id="@+id/etqty"
+            android:layout_width="45dp"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:text="50"
+            android:layout_marginLeft="65dp"
+            android:textColor="#ffffff"
+            android:paddingTop="3dp"
+            android:inputType="number"
+            android:layout_below="@+id/displayorderqty"
+            android:layout_toRightOf="@+id/tvfullfillqty"
+            android:layout_toEndOf="@+id/tvfullfillqty" />
+
+        <Button
+            android:layout_width="80dp"
+            android:layout_height="20dp"
+            android:text="Update"
+            android:id="@+id/update"
+            android:textSize="12dp"
+            android:gravity="center"
+            android:background="#DC143C"
+            android:textColor="#ffffff"
+            android:typeface="serif"
+            android:textStyle="bold"
+            android:layout_gravity="left"
+            android:layout_below="@+id/displayorderqty"
+            android:layout_marginRight="20dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

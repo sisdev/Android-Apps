@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   
+    android:orientation="vertical" 
+    android:background="@drawable/bg">
+
+    <LinearLayout 
+        android:layout_height="40dp"
+        android:layout_width="fill_parent"
+        
+        android:gravity="center"
+        android:weightSum="1.0"
+        android:orientation="horizontal"
+        android:background="#fff" >
+        <ImageView 
+        android:id="@+id/imagviewHome"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.4"
+        android:background="@drawable/home_screen_button_selector"
+        android:src="@drawable/appicon"
+        android:onClick="gotoNbtIndia"/>
+    <TextView
+        android:id="@+id/txtTitleActionBar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.2"
+        android:text="Reminders"
+        android:gravity="center"
+        
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+    <ImageView 
+        android:id="@+id/imagviewAssuLogo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.4"
+        android:background="@drawable/home_screen_button_selector"
+        android:src="@drawable/logo"
+        android:onClick="gotoAssuranceSoftware"/>
+    </LinearLayout>
+
+  
+<!-- 
+    <TextView
+        android:id="@+id/tvReminderActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.00"
+        android:layout_margin="5dp"
+        android:text="Your next schedule is as....."
+        android:textAppearance="?android:attr/textAppearanceLarge" 
+        android:layout_marginTop="20dp"
+       />
+    <TextView
+        android:id="@+id/tvNotiExbName"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="ABC pvt ltd"
+        android:layout_margin="5dp"
+        android:textAppearance="?android:attr/textAppearanceLarge" 
+        android:layout_marginTop="20dp"
+       />
+    <TextView
+        android:id="@+id/tvNotiStartTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start time : 09:00"
+        android:layout_margin="5dp"
+        android:textAppearance="?android:attr/textAppearanceLarge" 
+        android:layout_marginTop="20dp"
+        />
+    <TextView
+        android:id="@+id/tvNotiEndTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="END time : 09:30"
+        android:textAppearance="?android:attr/textAppearanceLarge" 
+        android:layout_marginTop="20dp"
+      />
+
+    <Button
+        android:id="@+id/btnNotiOk"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="OK" 
+        android:layout_marginTop="20dp"
+        android:background="@drawable/blue_button_selector"
+        android:onClick="clickOk"/> -->
+    <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="10dp" 
+    android:layout_weight="0.12"
+    >
+    <TextView
+        android:id="@+id/tvNotiExbName"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+       android:layout_marginTop="20dp"
+       android:layout_marginLeft="20dp"
+       android:layout_marginRight="20dp"
+       android:gravity="center"
+        android:text="Creative writing workshop by NCERT"
+        android:textColor="@color/white"
+        android:background="@drawable/semi_rounded_button"
+        style="@style/txtStyle" />
+    
+    
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="20dp"
+       android:layout_marginLeft="20dp"
+       android:layout_marginRight="20dp"
+        android:background="@color/event_details_background"
+         android:orientation="vertical"
+       >
+   
+    
+	<LinearLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       android:orientation="vertical"
+         android:padding="2dp"
+         android:layout_marginTop="20dp"
+         android:layout_marginBottom="20dp"
+        >
+
+		<TextView
+		    android:id="@+id/tvBookRemEventDate1"
+		    android:layout_width="150dp"
+		    android:layout_height="40dp"
+		    android:background="@drawable/rounder_button_white"
+		    android:text="17-JAN-2014"
+		    android:layout_gravity="center"
+		    android:textColor="@color/packplus_blue"
+		    android:gravity="center"
+		   style="@style/txtStyle" />
+
+      </LinearLayout>
+    
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+       
+        android:orientation="horizontal"
+        android:weightSum="1.0" 
+        android:layout_marginBottom="20dp">
+
+        <TextView
+            android:id="@+id/tvBookRemEventStartTime1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.50"
+            android:text="Start Time"
+            android:textColor="@color/packplus_blue"
+            android:gravity="center"
+            style="@style/txtStyle"/>
+
+        <TextView
+            android:id="@+id/tvNotiStartTime"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.50"
+            android:text="11:00"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="20dp"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:background="@drawable/rounded_button"
+            style="@style/txtStyle" />
+    </LinearLayout>
+     <!-- <TextView
+        android:layout_width="fill_parent"
+        android:layout_marginBottom="10dp"
+        android:layout_height="2dp"
+        android:background="@color/eventDateBackground"/> -->
+    
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+         android:layout_marginBottom="20dp">
+
+        <TextView
+            android:id="@+id/tvBookRemEventendTime1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.50"
+            android:text="End Time"
+             android:textColor="@color/packplus_blue"
+            android:gravity="center"
+            style="@style/txtStyle" />
+
+        <TextView
+            android:id="@+id/tvNotiEndTime"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.50"
+            android:text="12:00"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="20dp"
+            android:textColor="#ffffff"
+            android:gravity="center"
+            android:background="@drawable/rounded_button"
+            style="@style/txtStyle" />
+    </LinearLayout>
+     
+    <ImageButton
+        android:id="@+id/btnNotiOk"
+        android:layout_width="150dp"
+        android:layout_height="45dp"
+        android:padding="2dp"
+        android:layout_gravity="center" 
+        android:background="@drawable/home_screen_button_selector"
+        android:src="@drawable/rounded_button"
+        android:onClick="clickOk"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_marginTop="-31dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="OK"
+        style="@style/txtStyle"
+        android:textColor="@color/list_item_text_color"
+        />
+    </LinearLayout>     
+    </LinearLayout>
+
+</LinearLayout>

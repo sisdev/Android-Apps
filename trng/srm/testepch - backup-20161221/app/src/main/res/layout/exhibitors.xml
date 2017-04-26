@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:weightSum="1.0"
+    android:orientation="vertical" 
+    android:focusableInTouchMode="true">
+    <!-- <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        	> -->
+   <!--  <LinearLayout 
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="8dp"
+     > -->
+    
+    <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight=".22"
+    android:orientation="vertical" 
+   >
+    <LinearLayout 
+     android:layout_width="match_parent"
+    android:layout_height="12dp"
+    android:orientation="horizontal" >
+     </LinearLayout>
+    <LinearLayout 
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal"
+      android:background="@color/search_blue"
+      android:layout_marginTop="7dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+      android:padding="0dp"
+      >
+   
+    <AutoCompleteTextView
+        android:id="@+id/autoCompleteTextView"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:background="@drawable/rounder_button_white"
+         android:textColor="@color/Dark_Gray"
+        android:paddingRight="50dp"
+        android:paddingTop="1dp"
+        android:paddingBottom="1dp"
+        android:paddingLeft="5dp"
+        style="@style/txtSize"
+        android:hint="@string/enter_exbi_name"
+        android:maxLines="3"
+        android:inputType="textEmailAddress"
+       />
+</LinearLayout> 
+<ImageView 
+    android:id="@+id/imgViewSearchIcon"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_gravity="right"
+      android:layout_marginRight="10dp"
+      android:layout_marginTop="-62dp"     
+      android:scaleType="fitCenter"
+      android:padding="15dp"
+      android:src="@drawable/search_icon_selector"
+      />
+
+    </LinearLayout>
+	<LinearLayout 
+    	android:layout_width="match_parent"
+    	android:layout_height="0dp"
+    	android:layout_weight=".66"
+    	android:orientation="vertical" 
+    	android:layout_marginTop="10dp"
+    	android:layout_marginLeft="10dp"
+    	android:layout_marginRight="10dp"
+  		 >
+    
+
+        <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:orientation="horizontal"
+            android:layout_weight=".22" >
+           
+            <ImageButton 
+                android:id="@+id/btnexhibitorName"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+               	android:src="@drawable/exhibitors_name_selector"
+               	android:scaleType="fitCenter"                
+                android:layout_weight="0.5"
+                android:background="@color/transparent"/>			<!-- Exhibitors name button -->
+                  <ImageButton 
+                android:id="@+id/btnProductCategory"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/product_category_btn_selector"
+                android:scaleType="fitCenter"                
+                android:layout_weight="0.5"
+                android:background="@color/transparent"
+                 />         
+             <!--  -->			<!-- product name -->
+            
+        </LinearLayout>
+
+        <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:orientation="horizontal"
+            android:layout_weight=".22">
+            
+            <ImageButton 
+                android:id="@+id/btnexbstallNo"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/stall_no_selector"
+                android:scaleType="fitCenter"
+                android:layout_weight="0.5"
+                android:background="@color/transparent"/>		<!-- stall no button -->
+            <ImageButton 
+                android:id="@+id/btnexbcity"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/city_selector"
+                android:scaleType="fitCenter"                
+                android:layout_weight="0.5"
+                android:background="@color/transparent" />				<!-- City Button -->
+            
+        </LinearLayout>
+        <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:orientation="horizontal"
+            android:layout_marginTop="-20dp"
+            android:layout_weight=".22">
+            <!-- <ImageButton 
+                android:id="@+id/btnProductCategory"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/product_category_btn_selector"
+                android:scaleType="fitCenter"                
+                android:layout_weight="1.0"
+                android:background="@color/transparent"
+                 />		 -->
+                 <ImageButton 
+                android:id="@+id/btnexbproducts"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/products_name_btn_selector"
+                android:scaleType="fitCenter"
+                android:layout_weight="1.0"
+                android:background="@color/transparent"/>										<!-- Product category button -->
+                        
+        </LinearLayout>
+        
+
+    
+   <!--  </LinearLayout> -->
+   
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".12" >
+    <FrameLayout
+        android:id="@+id/AdsFrameLayoutSearch"
+        style="@style/add_banner_width_height"
+        android:layout_gravity="bottom|center_horizontal"
+        android:background="@drawable/banner_animator"
+        >
+        </FrameLayout>
+    </LinearLayout>
+</LinearLayout>

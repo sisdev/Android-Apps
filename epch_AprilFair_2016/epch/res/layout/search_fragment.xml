@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:weightSum="1.0"
+    android:orientation="vertical" >
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+    <LinearLayout 
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/rounded_green"
+    android:layout_margin="8dp"
+     >
+    <ScrollView 
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"  
+        >
+    <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+   >
+    <LinearLayout 
+     android:layout_width="match_parent"
+    android:layout_height="12dp"
+    android:orientation="horizontal" >
+     </LinearLayout>
+    <LinearLayout 
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal"
+      android:background="@color/search_blue"
+      android:layout_marginTop="7dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+      android:padding="0dp"
+      >
+   
+    <AutoCompleteTextView
+        android:id="@+id/autoCompleteTextView"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:background="@drawable/rounder_button_click"
+         android:textColor="@color/packplus_blue"
+        android:paddingRight="50dp"
+        android:paddingTop="1dp"
+        android:paddingBottom="1dp"
+        android:paddingLeft="5dp"
+        style="@style/txtSize"
+        android:hint="@string/enter_exbi_name"
+        android:maxLines="3"
+       />
+</LinearLayout> 
+<ImageView 
+    android:id="@+id/imgViewSearchIcon"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_gravity="right"
+      android:layout_marginRight="10dp"
+      android:layout_marginTop="-62dp"
+     
+      android:scaleType="fitCenter"
+      android:padding="15dp"
+      android:src="@drawable/search_icon_selector"
+      />
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:gravity="center_vertical"
+        android:background="@drawable/semi_rounded_button"
+        android:layout_marginTop="12dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:paddingLeft="5dp"
+        android:textColor="@color/gradient_start_color_listview"
+        android:text="@string/searched_by"
+        
+        style="@style/txtSize"
+         />
+
+    <RadioGroup
+        android:id="@+id/radioGroup1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/search_devider"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" 
+        >
+
+        <RadioButton
+            android:id="@+id/radioExhibiorName"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:checked="true"
+            android:layout_marginTop="1dp"
+            android:background="@drawable/search_button_selector"
+            android:text="@string/search_by_exhibitor_name" 
+            android:button="@null"
+            android:textColor="@color/packplus_blue"
+            android:drawableRight="@drawable/radio_button_selector"
+            style="@style/txtSize"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:gravity="center_vertical"/>
+
+        <RadioButton
+            android:id="@+id/radioProductName"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginTop="1dp"
+            android:background="@drawable/search_button_selector"
+            android:text="@string/search_by_product_name"
+            android:button="@null"
+            android:textColor="@color/packplus_blue"
+            android:drawableRight="@drawable/radio_button_selector"
+            style="@style/txtSize"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:gravity="center_vertical"/>
+
+        <RadioButton
+            android:id="@+id/radioCityName"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginTop="1dp"
+            android:background="@drawable/search_button_selector"
+            android:button="@null"
+            android:textColor="@color/packplus_blue"
+            android:drawableRight="@drawable/radio_button_selector"
+            android:text="@string/hall_wise" 
+            style="@style/txtSize"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:gravity="center_vertical"/>
+        
+    </RadioGroup>
+
+    <ImageButton
+        android:id="@+id/btnSearch"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/main_btn_selector"
+        android:padding="2dp"
+        />
+
+    <TextView android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-35dp"
+        android:textColor="@color/white"
+       style="@style/txtSize"
+        android:text="@string/search" />
+    </LinearLayout>
+    </ScrollView>
+    </LinearLayout>
+    <!-- <FrameLayout
+        android:id="@+id/AdsFrameLayoutSearch"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="bottom"
+        android:layout_weight="0.12"
+        >
+        </FrameLayout> -->
+    </LinearLayout>
+</LinearLayout>

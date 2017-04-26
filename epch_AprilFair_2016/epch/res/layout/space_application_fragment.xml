@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:weightSum="1.0"
+    android:orientation="vertical" >
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:layout_weight="0.88">
+    <TextView
+            android:id="@+id/tvSpaceApplication"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/space_application"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:background="@color/action_bar_Color"
+        />
+     <LinearLayout 
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/rounded_green"
+    android:layout_margin="8dp"
+     >
+    <ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+    android:cacheColorHint="#ff000000"
+     >
+     <LinearLayout 
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+     >
+     <Spinner
+            android:id="@+id/spinnerSpaceApplicaion"
+            android:layout_width="match_parent"
+            android:layout_height="50dp" 
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"/>
+     <EditText
+        android:id="@+id/etArea"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="5dp"
+        android:inputType="text"
+        android:background="@drawable/rounder_button_click"
+        android:hint="Area"
+        android:padding="5dp"
+        android:ems="10" >
+        </EditText>  
+        <EditText
+        android:id="@+id/etCmpName"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="5dp"
+        android:inputType="textPersonName"
+        android:background="@drawable/rounder_button_click"
+        android:hint="Company Name"
+        android:padding="5dp"
+        android:ems="10" >
+        </EditText>
+        <EditText
+        android:id="@+id/etIndrustry"
+        android:layout_width="match_parent"
+       android:layout_height="50dp"
+        android:layout_margin="5dp"
+        android:hint="Industry"
+        android:background="@drawable/rounder_button_click"
+        android:gravity="center_vertical"
+         android:inputType="textPersonName"
+        android:padding="5dp"
+        android:ems="10" >
+        </EditText>
+         <EditText
+        android:id="@+id/etContactP"
+         android:layout_width="match_parent"
+       android:layout_height="50dp"
+        android:layout_margin="5dp"
+        android:hint="Contact Person"
+        android:background="@drawable/rounder_button_click"
+        android:inputType="textPersonName"
+        android:padding="5dp"
+        android:ems="10" >
+        </EditText>  
+        <EditText
+        android:id="@+id/etDesignation"
+         android:layout_width="match_parent"
+       android:layout_height="50dp"
+        android:layout_margin="5dp"
+        android:hint="Designation"
+        android:background="@drawable/rounder_button_click"
+        android:inputType="textPersonName"
+        android:padding="5dp"
+        android:ems="10" >
+        </EditText>  
+        <EditText
+        android:id="@+id/etE_mail"
+       android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/rounder_button_click"
+        android:inputType="textEmailAddress"
+         android:hint="Email"
+        android:padding="5dp"
+        android:ems="10" >
+        </EditText>  
+        
+        <EditText
+        android:id="@+id/etMobile"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="5dp"
+        android:inputType="number"
+        android:hint="Mobile"
+        android:background="@drawable/rounder_button_click"
+        android:padding="5dp"
+        android:ems="10" >
+        </EditText>  
+        
+        
+        <Button
+            android:id="@+id/btnSpaceAppSubmit"
+            android:layout_margin="5dp"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:text="@string/submit"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:background="@drawable/main_btn_selector"
+            android:layout_gravity="center"
+        />  
+         </LinearLayout>
+         
+        </ScrollView>
+       
+</LinearLayout>
+</LinearLayout>
+<LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="0dp"
+     android:layout_weight=".12" >
+    <FrameLayout
+        android:id="@+id/AdsFrameLayout"
+        style="@style/add_banner_width_height"
+        android:layout_gravity="bottom|center_horizontal"
+         android:background="@anim/banner_animator">
+        </FrameLayout>
+</LinearLayout>
+</LinearLayout>

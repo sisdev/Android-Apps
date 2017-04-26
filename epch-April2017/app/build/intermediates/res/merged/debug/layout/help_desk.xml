@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rootLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg" >
+
+    <WebView
+        android:layout_alignParentTop="true"
+        android:id="@+id/webVieweventInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:layout_above="@+id/AdsFrameLayout"
+        />
+    <ProgressBar
+       android:id="@+id/progressBar1"
+       style="?android:attr/progressBarStyleLarge"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_centerHorizontal="true"
+       android:layout_centerVertical="true"
+       android:visibility="gone"/>
+    
+   <FrameLayout 
+       android:layout_alignParentBottom="true"
+       style="@style/add_banner_width_height"
+       android:id="@+id/AdsFrameLayout"
+       android:background="@anim/banner_animator"/>
+
+</RelativeLayout>

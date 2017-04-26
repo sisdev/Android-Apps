@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    
+    android:background="@drawable/bg">
+
+    <Spinner
+        android:id="@+id/splayoutmap"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/rounder_button_white"
+        />
+        <!-- android:background="@color/white"   changed -->
+    	<ImageView 
+		    android:id="@+id/img"
+		    android:layout_width="15dp"
+		    android:layout_height="10dp"
+		    android:maxWidth="30dp"
+		    android:maxHeight="30dp"
+		    android:layout_alignRight="@+id/splayoutmap"
+		    android:layout_gravity="right"
+		    android:layout_marginRight="20dp"
+		    android:layout_marginTop="30dp"
+	    	android:background="@drawable/down_arrow" />
+    	<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="Please wait..."
+        android:textColor="@color/Gray"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    	
+    <com.assusoft.tmxloader.library.TouchImageView
+        android:id="@+id/imgLayoutmap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/splayoutmap"
+        android:layout_above="@+id/AdsFrameLayout"
+        />
+    
+    <FrameLayout 
+    android:id="@+id/AdsFrameLayout"
+    style="@style/add_banner_width_height"
+   android:layout_alignParentBottom="true"
+    android:background="@anim/banner_animator"></FrameLayout>
+</RelativeLayout>

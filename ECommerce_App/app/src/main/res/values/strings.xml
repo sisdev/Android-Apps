@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CasaNeeds Seller</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login_screen">Login Screen</string>
+    <string name="title_activity_welcome_screen">Welcome Screen</string>
+    <string name="title_activity_task_">My Task</string>
+    <string name="title_activity_order__fullfillment">Order Fullfillment</string>
+    <string name="title_activity_delievery__task">Delievery Task</string>
+    <string name="title_activity_report">Task Summary</string>
+    <string name="title_activity_unassigned__task">Unassigned_Task</string>
+    <string name="title_activity_online_task_">OnlineTask_Activity</string>
+    <string name="title_activity_off_line_task">OffLineTaskActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_online__order_fullfillment">Online_OrderFullfillment</string>
+    <string name="title_activity_offline__order_fullfillment">Offline_OrderFullfillment</string>
+    <string name="title_activity_offline__card_view__order_fullfillment">
+        Offline_CardView_OrderFullfillment
+    </string>
+    <string name="title_activity_packing_">Packing_Activity</string>
+    <string name="title_activity_confirm_delivery">ConfirmDelivery</string>
+</resources>
+
+
+
